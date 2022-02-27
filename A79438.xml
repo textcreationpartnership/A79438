@@ -1,0 +1,1774 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A theological dialogue: containing the defence and justification of Dr. John Owen from the forty two errors charged upon him by Mr. Richard Baxter in a certain manuscript about communion in lyturgical worship.</title>
+            <author>Chauncy, Isaac, 1632-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 151 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79438</idno>
+            <idno type="STC">Wing C3757aA</idno>
+            <idno type="STC">ESTC R230946</idno>
+            <idno type="EEBO-CITATION">99896601</idno>
+            <idno type="PROQUEST">99896601</idno>
+            <idno type="VID">134627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134627)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2424:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A theological dialogue: containing the defence and justification of Dr. John Owen from the forty two errors charged upon him by Mr. Richard Baxter in a certain manuscript about communion in lyturgical worship.</title>
+                  <author>Chauncy, Isaac, 1632-1712.</author>
+               </titleStmt>
+               <extent>[2], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Dr. Williams' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Owen, John, 1616-1683 --  Early works to 1800.</term>
+               <term>Baxter, Richard, 1615-1691 --  Early works to 1800.</term>
+               <term>Christianity --  Creeds --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:134627:1"/>
+            <p>A <hi>Theological Dialogue:</hi> Containing the DEFENCE and JUSTIFICATION OF Dr. John Owen FROM THE FORTY TWO ERRORS Charged upon him by <hi>Mr. Richard Baxter.</hi> In a certain MANUSCRIPT ABOUT Communion in Lyturgical Worſhip.</p>
+            <q>
+               <bibl>
+                  <hi>Hebr. 11.5.</hi>
+               </bibl>
+               <p>By Faith <hi>Abel</hi>—obtained a witneſs that he was righteous, God teſti<g ref="char:EOLhyphen"/>fying of his gifts; and by it being dead, yet ſpeaketh.</p>
+               <bibl>
+                  <hi>1 Cor. 4.3, 4.</hi>
+               </bibl>
+               <p>With me it is a very ſmall thing that I ſhould be judged of you, or of mans judgment.—He that judgeth me is the Lord.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author, 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:134627:2"/>
+            <pb n="1" facs="tcp:134627:2"/>
+            <head>A THEOLOGICAL DIALOGUE CONTAINING Dr. <hi>Iohn Owen's</hi> DEFENCE AND JUSTIFICATION AGAINST Mr. <hi>Richard Baxter's</hi> CHARGE, &amp;c.</head>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>SIR you ſay, That there is a certain Manuſcript come to your hand, which is famed to be Dr <hi>Owen</hi>'s, but received by you from a private hand, which you pub<g ref="char:EOLhyphen"/>liſh, taking it for granted ſo to be, add his Name to it, and expoſe it to Publick View, and charge the ſaid Dr. <hi>Owen</hi> with forty two Errors therein contained: It is not yet proved by you to be his, and therefore whether its reaſonable for you to charge <hi>him</hi> with forty two Errors, if you had found them in the ſaid Manuſcript, let the World judge. But whether the charge of ſuch Errors on the ſaid Manuſcript be juſt, give us leave to Examine by our Enſuing Conference. And ſeeing by a continued <hi>Proſopopeia,</hi>
+                  <pb n="2" facs="tcp:134627:3"/> you direct your Diſcourſe, Charges, Reproofs and Admonitions to me, as if I were perſonally preſent, or at leaſt living in the Body, who you know departed this Life ſome months ſince; Take it not amiſs if I treat you in the like nature, and think it as feaſible for a dead man to ſpeak in the Ears of the Living, as for the Living to ſpeak in the Ears of the Dead.</p>
+               <p>I ſuppoſe if that Manuſcript were mine, ſome or other of the Congregation to which I was Paſtor, might come to me with this Caſe of Conſcience. <hi>Sir, Is it lawful for us who are Members of a Congregation of Faithful People,</hi> (according to <hi>Article</hi> 19. of the Church of <hi>England) for to joyn now, as things are in their preſent Cir<g ref="char:EOLhyphen"/>cumstances, in the Publick Worſhip by the Liturgy?</hi> And that it was Anſwered,</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>It is not lawful for us to go to, and joyn in Publick Worſhip by the Common Prayer; becauſe that Worſhip in it ſelf, accor<g ref="char:EOLhyphen"/>ding to the Rule of the Goſpel, is unlawful.</hi> Now I pray Sir, what Re<g ref="char:EOLhyphen"/>ſolution would you give of this Caſe?</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>I ſay, It is not only lawful, but a Duty for thoſe that can<g ref="char:EOLhyphen"/>not have better Publick Church-Worſhip, without more hurt than benefit; and are near a competent Pariſh Miniſter, to go to and joyn in Publick Worſhip performed according to the Liturgy, and in Sacramental Communion; and for thoſe that can have better, to joyn ſometimes with ſuch Pariſh-Churches, when their forbearance ſcandalouſly ſeemeth to ſignifie that they take ſuch Communion for unlawful, and ſo would tempt others to the ſame Accuſation, and Uncharitable Separation.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Sir, Your Reſolution ſeems to me very long, and upon ſo many Suppoſitions, that its very ambiguous, and doth very ſcarcely, if at all, reach the Enquiry here made: For 1. We ask <hi>for our ſelves, who are Actual Members of a Voluntary Church,</hi> whe<g ref="char:EOLhyphen"/>ther we may joyn in ſuch Communion ſpoken of, when we are, as we apprehend, of a Society, and have a Publick Worſhip more a<g ref="char:EOLhyphen"/>greeable to the mind of Chriſt, and our own Edification; and do you judge whether that be better or no for us. 2. What you mean <hi>by a competent Ministry,</hi> we know not; one man judges a man a Competent, yea able and profitable Miniſter, which another doth not, who muſt be a <hi>binding Judge</hi> to me in this caſe? Muſt I walk by my own Judg<g ref="char:EOLhyphen"/>ment <hi>for Edification,</hi> or by another Mans? 3. Doth nearneſs to a Com<g ref="char:EOLhyphen"/>petent Miniſter make it my duty to joyn in all the Publick Worſhip
+<pb n="3" facs="tcp:134627:3"/> of that Church of which he is Miniſter? You ſay, <hi>If I cann't have better:</hi> But if I have and can by going further, what then? And for thoſe that can have better, to joyn ſometimes in ſuch Pariſh-Churches, but then not alwayes, and to leave their aforeſaid Com<g ref="char:EOLhyphen"/>munion as unlawful, whereas our ſaid Pariſh-Churches require us ſo to do, proſecuting us by Laws wherever they find us aſſembled. You ſay it muſt be when our forbearance ſcandalouſly ſeemeth to ſignifie that we take ſuch Communion for unlawful: Who ſhall be judge of this? Doth my Actual Non-communion with any Church ſcanda<g ref="char:EOLhyphen"/>louſly reflect upon its Conſtitution, if I walk in Communion with a Church which I judge to be a Church of Chriſt? Muſt I go by the conduct of every peeviſh man or Church that will ſay ſo? If a Church of Baptiſts in the ſame Pariſh with me, will ſay ſo, muſt I therefore joyn with them upon their unalterable terms, which I am not ſatisfyed in? Again, what if I do take ſuch Communion for unlawful, upon grounds ſatisfactory to my ſelf, am I bound to-ſlight thoſe grounds becauſe ſomebody ſaith my forbearance hath a Scandalous Signification? Likewiſe if my Separation be in duty to wards God and my own Soul, it's not uncharitable to any Man, neither do I tempt any man by walking therein, to uncharitableneſs, or any Accuſation thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>Something muſt be premiſed to the Confirmation of this Poſition.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Theſe are the things that we premiſe, and therefore ſhould be agreed upon on both ſides, <hi>pro conceſſis,</hi> before we go to prove the Poſition laid down, by the following Twelve Arguments.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſc.</speaker>
+               <p n="1">1. <hi>The whole Syſtem of Liturgical Worſhip, with all its inſeparable Dependencies, are intended; for as ſuch it is Eſtabliſhed by Law, and not in any part of it only; as ſuch it is required that we re<g ref="char:EOLhyphen"/>ceive it, and attend unto it. It is not in our power, it is not left to our judgment or liberty, to cloſe with, or make uſe of any part of it, as we ſhall think fit.</hi>
+               </p>
+               <p>
+                  <hi>There are in the Maſs-Book many Prayers directed to God only by Je<g ref="char:EOLhyphen"/>ſus Chriſt, yet it is not lawful for us thereon to go to Maſs, under a pretence only of joyning in ſuch lawful Prayers.</hi>
+               </p>
+               <p>
+                  <hi>As we muſt not offer their Drink-Offerings of Blood, ſo we muſt not take up their Names in our Lips,</hi> Pſal. 16:4. <hi>have no Communion with them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>To the firſt I anſwer: 1. If he will include all that is in
+<pb n="4" facs="tcp:134627:4"/> the Liturgy, the Nonconformiſts confeſs that there is ſomething in it which they differ from, as unjuſtifiable; and ſo there is in all mens Worſhip of God.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We ſay, The whole Syſtem, our meaning is plain, the <hi>totum,</hi> as it ſtands conſtituted in all its integral parts: When I ſpeak of <hi>John</hi> or <hi>Thomas, &amp;c.</hi> I ſpeak not of a Finger, or a Leg; if I do, I ſay, the Finger or Leg of ſuch an one; So we ſpeak not of thoſe things that you will call faulty, and unjuſtifyable, as it may be a Surplice or Croſs, <hi>&amp;c.</hi> but of the whole Liturgy-Worſhip, as Eſtabliſh'd.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>He intimateth that <hi>it is not in cur power to cloſe with ſome, and not with all:</hi> This is his <hi>Firſt Error.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>It ſeems its but an intimated Error then; we ſay its not left to our Judgment or Liberty, (<hi>viz.</hi> by them that challenge a Power over our Judgment and Liberty) to cloſe with or make uſe of any part of it, <hi>i. e.</hi> in our External Communion; the Law al<g ref="char:EOLhyphen"/>lows it not, to read or hear it by bits or ſnaps, or leave out what we pleaſe; the Adminiſtrators will not leave it to us to do ſo, neither can it be done without manifeſt offence to ſuch Worſhippers.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Though man gives us no ſuch power, God doth; I am not bound to believe or own all that any Preacher ſhall ſay in the Church.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We ſpeak not only of what power God gives us, the ſence is plain: But God hath not left it in our power to communicate with any Society, when they make that the condition of my Com<g ref="char:EOLhyphen"/>munion, which I am convinced of to be ſin to me, or that I queſti<g ref="char:EOLhyphen"/>on whether it be lawful or no: And though by joyning in any Wor<g ref="char:EOLhyphen"/>ſhip, you are not guilty of the Errors of the Adminiſtrators, yet you own the Conſtitution of the Worſhip, and the Rule by which it is performed, ſuppoſing all Rules of Worſhip be Chriſt's Laws and Rules, and therefore perfect and unerring. To worſhip ac<g ref="char:EOLhyphen"/>cording to the Liturgy, is to worſhip according to a Rule; and this muſt be Gods Rule, or Mans: If Gods, there's no body will diſſent from any thing in it as unjuſtifiable; If mans, the whole is not juſtifiable; for let any ſort of men ſhow by what Authority they give a Rule for the Worſhip of God.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Though the Maſs have many good Prayers, the Corrupti<g ref="char:EOLhyphen"/>on by twiſted Idolatry and Hereſie, maketh Communion there un<g ref="char:EOLhyphen"/>lawful.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:134627:4"/>
+               <speaker>J. O.</speaker>
+               <p>That Twiſt is made in the whole Syſtem, by the Law E<g ref="char:EOLhyphen"/>ſtabliſhing it, where it is made their pretended Churches Worſhip; therefore being unſeparable, you cann't make uſe of thoſe alone which are directed to God, by Jeſus Chriſt alone, but you muſt joyn in the Idolatry, if you come to the Worſhip as Eſtabliſh'd. Again, when you joyn with a Syſtem of Worſhip, as by Law Eſta<g ref="char:EOLhyphen"/>bliſhed, you joyn wlth the whole; as, if you touch a mans finger, you touch the man: we have Communion with an <hi>Integrum, p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r partes,</hi> and with a <hi>Genus</hi> by a <hi>Species</hi> and with both by Individuals: Nay, as every part of the Scripture, one Verſe or Sentence, if it makes up ſence; ſo every part of the Liturgy, as in form and man<g ref="char:EOLhyphen"/>ner therein contained, is Liturgy; and Worſhip thereafter is ac<g ref="char:EOLhyphen"/>cording to the Liturgy, though it be but part of the Worſhip.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Prove any ſuch Idolatry or Hereſie in the Church Worſhip by the Liturgy, and we will avoid it.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>The Queſtion is not, <hi>de Quanto,</hi> but <hi>de Quali;</hi> if we prove Sin twiſted in the Conſtitution and Syſtem, ſo that if we have communion with one, we muſt partake in the other, it's enough we are not to partake in fore-known Sins that we are convinced of, nor ſhould we commit any Sin willingly, that good may come of it. If a Worſhip be not really a Sinful Worſhip, yet if we believe it ſo, or queſtion whether it be lawful or no, we may not have Com<g ref="char:EOLhyphen"/>munion with it.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Heathens and Turks have good Prayers.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>That Divinity wants ſeveral grains of Salt, and when you have done all, it will ſtink.</p>
+            </sp>
+            <sp>
+               <speaker>R B.</speaker>
+               <p>
+                  <hi>Pſal.</hi> 16 4. Is too ſadly abuſed, which ſpeaks only of <hi>Sa<g ref="char:EOLhyphen"/>crificing to, and Worſhipping Falſe Gods.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Though it ſpecifie but one ſort of Falſe VVorſhip, yet if it ſpeak of it as ſuch, then it's applicable juſtly to another; and if that be Falſe Worſhip we are ſpeaking of, it's applicable to it, and the place is not abuſed.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>God put it into the Diſciples power to beware of the Le<g ref="char:EOLhyphen"/>ven of the Phariſees, and hear them.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>God commanded them to bewa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the <hi>Leven</hi> of them; <hi>i. e.</hi> their falſe Doctrines and Traditions, <hi>&amp;c.</hi> he never bid his Diſciples to have Communion in one or the other; though he told them <hi>Moſes</hi> Chair was yet ſtanding, he had no other Church or Or<g ref="char:EOLhyphen"/>dinances yet on Earth, and the Conſtitution was Originally his
+<pb n="6" facs="tcp:134627:5"/> own, though now much corrupted by Corrupt Officers and humane Inventions; VVell, ſaith he, attend the Ordinances and Offices of this Church yet, but take heed of their <hi>Leven</hi> and Corruption; he doth not bid them taſte of the <hi>Leven</hi> to prove whether it be ſo, when they know it, and he told them what it was; Nay, you will ſay, a corrupt Church-Communion is to be parted with for a bet<g ref="char:EOLhyphen"/>ter; our caſe is ſuch; but in Chriſt's caſe and his Diſciples, it was not ſo; If they had not Communion with that Church, they could not with any on Earth then: Beſides, it was his Church, and he purchaſed it with his Blood, and he had choice Members in it; but he alwayes witneſſed againſt the corruptions of it, and had no Communion with them. Laſtly, he was Lord of the Vinyard, and his Precept is a Law; let the like be ſhewed for your practice: That Caſe and ours differs <hi>toto Caelo.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Prove all things, is not approving all things.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>The place is 1 <hi>Theſ.</hi> 5.21. <hi>Prove all things, hold faſt that which is good;</hi> that's neceſſarily accompanied with avoiding that which is evil; I muſt prove no longer than till I find it to be good or evil; and if the <hi>All things</hi> be matters of Practice, I am not to prove them by doing them before I know them to be <hi>in genere morali bona,</hi> or <hi>mala,</hi> or <hi>licita</hi> at leaſt, for I may not do a doubtful action meerly to try whether it be good or no, this were to tempt God, and wound my Conſcience; but a doubtful action whilſt ſuch, muſt be ſuſpended. <hi>Prove all things,</hi> is eſpecially to be underſtood of Doctrines that are pretended to be good, and I know no other but they are ſo, till I hear them; and when I hear them, and find them not ſo, I reject them as evil, and have no more to do with them, to countenance them; if this <hi>proving</hi> be applied to poſitive Actions, it muſt be by Pre-Examination of the nature of the thing and circumſtances before hand, till I underſtand it, as before-ſaid.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>It is to be conſidered as armed with Laws;</hi> 1. <hi>Such as declare and enjoyn it, as the only True Worſhip of the Church:</hi> 2. <hi>Such as prohibit, condemn and puniſh all other wayes of the Worſhip of God in Church-Aſſemblies: by our Communion and Conjunction with it, we juſtifie thoſe Laws.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>That our Communion juſtifieth all the Laws that impoſe the Liturgy, yea, the Penal Severities, is to groſs an Error to be written with any ſhew of proof. Error 2d.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Active Obedience to any Law, juſtifieth the Mandato<g ref="char:EOLhyphen"/>ry
+<pb n="7" facs="tcp:134627:5"/> part of the Law, as good, either abſolutely, or circumſtanti<g ref="char:EOLhyphen"/>ally and comparatively, <hi>pro hic &amp; nunc;</hi> but. paſſive Obedience doth not juſtifie neceſſarily either the preceptive or penal part, though it juſtifies me before the Law.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>What if the Creed or Lords Prayer were too rigorouſly impoſed?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>If the thing be my duty in obedience to a juſt and Supream Law, I am not to neglect it becauſe an Inferiour Governour too ri<g ref="char:EOLhyphen"/>gorouſly impoſeth it: 1. Such a rigorous impoſition hurts me not, in that which I take to be duty to do, whether that Impoſition be or no. 2. Chriſt never annexeth too ſevere Penalties to any of his Laws. 3. If man undertake to annex too rigorous Puniſhments, or unſuitable ones, it hinders not me in my Duty to Chriſt. As if a Magiſtrate make Whipping or Hanging the Penalty of not receiv<g ref="char:EOLhyphen"/>ing the Sacrament, in ſuch a time; If I upon Examination of my ſelf and the Rule, apprehend it my duty in Obedience to Chriſt, I will do it, but not in reſpect to Mans Laws: But if the Subordi<g ref="char:EOLhyphen"/>nate Law-maker alter the Nature and Circumſtances of the Su<g ref="char:EOLhyphen"/>pream, the Law is another thing, and my Obedience juſtifies the power of the Law-maker, and the goodneſs of the Law, in the Mandatory part. Again, good things by a lawful Authority may be too rigorouſly impoſed, and the Law may be unjuſt in the Penal<g ref="char:EOLhyphen"/>ty, though the Mandatory part be good; which injuſtice is the ſin of the Law-givers, loſs and wrong of the Tranſgreſſor, becauſe he ſuffers beyond the Merit of his Tranſgreſſion; but this hinders not me from my Duty, neither doth this rigorous Impoſition hurt me, ſo long as I ſtand in obligation and practice of my duty by a<g ref="char:EOLhyphen"/>nother Righteous Law, which requires the ſame thing. If Chriſt commands me to ſay the Lords Prayer, and annexeth no corporal puniſhment, I will do it: If Mans Law ſaith, I ſhall be hang'd if I do not do it; I do the Action by vertue of Chriſt's Law; But let ſuch Law makers look to it that annex Corporal Penalties to Laws of his Inſtitution; the Cries of them upon which they are Execu<g ref="char:EOLhyphen"/>ted, will be loud in Chriſts Ear.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>This Corjunction by C mmunion by the Worſhip of the Liturgy, is a Symbol, Pledge and Token of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Eccleſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſtical Incorpo<g ref="char:EOLhyphen"/>ration with the Church of</hi> England <hi>in its preſent Conſtitution; it is ſo in the Law of the Land, it is ſo in the Canons of the Church; it is ſo in the common underſtanding of all men; and by theſe
+<pb n="8" facs="tcp:134627:6"/> Rules muſt our <g ref="char:V">Ʋ</g>nderstanding and Practice be judged, and not be any Reſerves of our own, which neither God nor good men will allow of. Wheref<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>To the third Premiſe, I anſwer: The Church of <hi>England</hi> is an Ambiguous word, 1. As it ſignifies a part of the Univerſal Church, agreeing in Faith, one God, and all Eſſentials.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>So any Church may be, as well as it, any particular Con<g ref="char:EOLhyphen"/>gregation; this is no diſtinguiſhing Character, but is ambigu<g ref="char:EOLhyphen"/>ous too.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p n="2">2. As it is a Chriſtian Kingdom, under one King.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>A Church in a ſence is a Chriſtian Kingdom, <hi>i. e.</hi> a Royal Nation, under Chriſt their King. But there's no ſuch Goſpel Church in your ſence, for there was neither Chriſtian Kingdom nor King in the Apoſtles days.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>As it is a Confedracy of many Churches to keep concord in lawful Circumſtantials as well as Integrals.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>This will not tell us yet what the Church of <hi>England</hi> is: 1. A confederacy of Churches is by No-body call'd a Church in your ſence of a Church; the Scripture no where calls a confedracy of Church<g ref="char:EOLhyphen"/>es a Church; nor doth any that call the Church of <hi>England</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Church, owning it ſo to be in its profeſſed Conſtitution, mean thereby a con<g ref="char:EOLhyphen"/>federation of Churches. 2. National Churches may be a confede<g ref="char:EOLhyphen"/>ration of Churches, and ſuch confederation in lawful circumſtan<g ref="char:EOLhyphen"/>tials as well as integrals, will make a Church. I know not why we may not have a Catholick Viſible Church Organized, if this be a due acceptation of a Church.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>If any Church go beyond theſe bounds, and upon good pre<g ref="char:EOLhyphen"/>tences ſhall agree upon any Error or Evil, it is a miſtake to hold that all that incorporate with them in the three aforeſaid lawful reſpects do therefore confederate with them in their Error. This is your Fourth Error.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>That's <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our Error, 1. In Arithmetick, its but the third by your own mark; 2. In Logick, for what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounds have you ſet? Theſe three things are but general Deſcriptions of a Church at moſt. Here's no definition in any or all of them of any particular Church; and that is ſetting of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounds, when I difference and de<g ref="char:EOLhyphen"/>ſcribe a <hi>Species</hi> or Individual, under its next <hi>Genus,</hi> by its parti<g ref="char:EOLhyphen"/>cular form, or proper adjunct; we ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak of a particular Church ſo bounded. The Church of <hi>England</hi> is ſo, according to its
+<pb n="9" facs="tcp:134627:6"/> preſent conſtitution, by Eſtabliſhing Laws in its actual form of Officers, Members, particular Worſhip, and power, as an Organi<g ref="char:EOLhyphen"/>zed individual Church National. Church is not the next <hi>Genus</hi> of the Church of <hi>England,</hi> but remote National Church is the next <hi>Genus</hi> Now I ſay, upon whatever pretences a particular Church calls and profeſſeth it ſelf a Church, as the conditions of their Com<g ref="char:EOLhyphen"/>munion; if you joyn with them upon thoſe conditions pretended and profeſſed, that is a Token of your Eccleſiaſtical Incorporati<g ref="char:EOLhyphen"/>on in the ſaid Church, in its preſent conſtitution; the Church and all others looks upon you as an Actual Member, let the conditions be Error or no Error. The Queſtion is not ſo much now, whether the terms be Error or not, but whether your joyning upon the terms required, is not your Eccleſiaſtical Incorporation with them? And then if the terms be erroneous and ſinful, whether you do not joyn in the Error, and profeſſedly allow it by your practice.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>I will give you a general inſtance, and a particular one: 1. You cann't name me one combined company of Churches from the Apoſtles dayes till now, that had no Error.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>You might as well have ſaid any one Church, for we ſpeak of a particular Church, not of combined Churches; but ſuppoſe as you ſay, If that Combination be an Error, or an Error be the condition of the Combination, then my coming upon that conditi<g ref="char:EOLhyphen"/>on is an Error, and an Incorporation into that combination, ſo as to make me Confederate in that Error.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>The Independents gathered a Syn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d at the <hi>Savoy,</hi> and there among their Doctrinals, or Articles of Faith, laid down two points Expreſly contrary to Scripture: 1. That it is not Faith, but Chriſts Righteouſneſs, that we are juſtified by; whereas it is both, and the Scripture often ſaith the contrary.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>It is a ſtrange thing that any man ſhould take upon him ſuch Magiſterial Dictatorſhip in matters of Religion, to inſinuate Error into Mens Minds, and unjuſt accuſations of others: For 1. When the Scripture ſpeaks of Juſtification by Faith, doth any ſound Divines or Chriſtians underſtand it of the Act of believing, but that the object of Faith that Juſtifies, is the Righteouſneſs of Faith, our own Righteouſneſs, or Chriſts Righteouſneſs; but this diſpute is not our preſent Province. The Articles of the <hi>Savoy</hi>-Confeſſion ſaith, God freely juſtifieth us—Not by imputing Faith it ſelf, the Act of believing, <hi>&amp;c.</hi> Will you ſay, That God
+<pb n="10" facs="tcp:134627:7"/> imputes the Act of believing for Righteouſneſs, in Juſtification of a Sinner before God? If you will, there's more good Proteſtants will condemn this as your Error, then will ſay there is any Error in that Article of the <hi>Savoy</hi>-Confeſſion; I am ſure we have Scripture enough againſt you; but this is one of your Arminian Errors.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>That Chriſts Righteouſneſs imputed<g ref="char:punc">▪</g> is our ſole Righte<g ref="char:EOLhyphen"/>ouſneſs; whereas the Scripture doth name alſo our inherent and practical Righteouſneſs.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Why do you not ſpeak out now, but intimate an Error? Doth the Scripture name inherent Righteouſneſs for Juſtification? I know what you would be at, you are for your Ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngelical Works to come in Cheek by Jole with the imputed Righteouſneſs of Chriſt for Juſtification; and you are inforced <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o it, becauſe you will bring in the <hi>To Credere,</hi> one may as well come in as the other; And in this Doctrine I muſt tell you, you have laid <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he faireſt Bridg for Popery to come in, that ever any Proteſtant Divine hath done this hundred years. And that's your Popiſh Error.</p>
+               <p>I will reherſe the <hi>Savoy</hi>-Confeſſion in its own words, which is ta<g ref="char:EOLhyphen"/>ken <hi>verbatim</hi> almoſt, if not quite, from the Aſſembly's; ſo that you charge the latter, in charging the former.</p>
+            </sp>
+            <floatingText xml:lang="eng" type="confession">
+               <body>
+                  <head>
+                     <hi>Savoy</hi>-Confeſſ. of Juſtification, Chap. 2.</head>
+                  <p>
+                     <hi>Thoſe whom God effectually calleth, he alſo freely juſtifieth, not by infuſing Righteouſneſs into them, but by pardoning their Sins, and by accounting and accepting their perſons as righteous; not for any thing wrought in them, or done by them, but for Christs ſake alone; not by imputing Faith it ſelf, the Act of Believing, or any other Evangelical Obedience to them, as their Righteouſneſs, but by imputing Chriſts A<g ref="char:EOLhyphen"/>ctive Obedience unto the whole Law, and Paſſive Obedience in his death, for their whole and ſole Righteouſneſs, they receiving and resting on him and his Righteouſneſs by Faith, which Faith they have not of them<g ref="char:EOLhyphen"/>ſeves, it is the Gift of God.</hi>
+                  </p>
+                  <p>This Article we ſtand by, and will defend againſt all men that ſhall oppoſe it as erroneous.</p>
+               </body>
+            </floatingText>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>I asked ſome yet living why they conſented to theſe, and did not rather expound the Scripture, then deny it? And they ſaid that it was Dr. <hi>Owens</hi> doing; Now doth it follow that every one that there confederated with you, owned theſe Errors.</p>
+            </sp>
+            <sp>
+               <pb n="11" facs="tcp:134627:7"/>
+               <speaker>J. O.</speaker>
+               <p>If the bringing in this Article of Faith was Dr. <hi>Owens</hi> do<g ref="char:EOLhyphen"/>ing, as you ſay you were told, I am not aſhamed of it. 2. He did no more in this and the other than was the Act of the whole Convention. 3. If any of the Members that were there, were diſſa<g ref="char:EOLhyphen"/>tisfied in the truth of it, why did they not proteſt againſt it? But if it were an Error, all that acted ſilently, by implicit conſent, were confederate (if it were a confederation) in the Error; and there was nothing of this kind done but by moſt Voices, which made every man concerned, that entered not his particular Diſſent.</p>
+            </sp>
+            <sp>
+               <speaker>R B.</speaker>
+               <p>The Churches of <hi>Helvetia</hi> they are commonly ſuch as we call <hi>Eraſtian,</hi> for no Diſcipline but the Magiſtrates; are all that confederate with them as Churches, guilty of this Error?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>They are ſo, for ſubjection to ſuch diſcipline is the Con<g ref="char:EOLhyphen"/>dition of their Communion; and therefore they that are joyned upon thoſe terms, are guilty of their Error.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>But I further diſtinguiſh between the many Pariſh-Churches, and the Dioceſan, and the Church of <hi>England</hi> as conſtituted of ſuch Dioceſan Churches.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>You may as well diſtinguiſh between the many particular men, and <hi>Homo</hi> and Animal.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>The Old Nonconformiſts commonly owned the Pariſh-Churches (and the Church of <hi>England</hi> made up of ſuch) but not the Dioceſan.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>You and they might as well own the Church of <hi>England</hi> in the form and conſtitution as it is Eſtabliſhed, as the Pariſhes to be particular Goſpel-Churches, and the <hi>Aggregatum</hi> of them to make up a Conglomorate Church; there is as much ground for one as for the other; Methinks a Conglobate Church makes a more firm and ſolid Body, being made of ſeveral Orbs ſubordinately, inwrap<g ref="char:EOLhyphen"/>ing and infolding one another. Now it muſt needs follow, that where a Church is thus conſtituted, that you cann't take out from ſuch a Body any middle ſubordinate Coat, but you muſt make Schiſm of the whole; and to come into the Communion of the Chu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch of <hi>England,</hi> which is ſuch a conglobate Church, with a denial i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our heart or mouth of a Dioceſan Church, is to come with Schiſm in your heart and mouth, ſplitting a Church in order to Communion; yea, a denial of the very Eſtabliſhment of that Church; yea, the very Paſtoral ſtanding of the conſtituted Paſtor to whoſe Church you
+<pb n="12" facs="tcp:134627:8"/> joyn; for the Dioceſan Biſhop by the conſtitution, is the Paſtor of that Pariſh in which you joyn, the Parſon or Vicar is but his Cu<g ref="char:EOLhyphen"/>rate or <hi>
+                     <g ref="char:V">Ʋ</g>mbra:</hi> Now to ſay you joyn with a <hi>quatenus,</hi> and own not the very conſtitution and ſtanding of the Church with which you joyn, in the ſence the Church aſſerts it, is the greateſt Equivocati<g ref="char:EOLhyphen"/>on in practice that is. You joyn with them <hi>quatenus</hi> Congregati<g ref="char:EOLhyphen"/>onal Churches, ſuch they diſown; as an Aſſociation of Presbyteri<g ref="char:EOLhyphen"/>an Churches, which they diſown; you diſown the Dioceſan Biſhop for your Paſtor, which he ſaith he is; you ſay he is a Presbyterian Superintendent, he ſaith he is none. Is not this high impoſing, to come to Communion with a Church upon the terms of your <hi>qua<g ref="char:EOLhyphen"/>terus?</hi> As if I ſhould get upon a Cow, and ride it with Whip and Spur, and ſay I ride it <hi>quatenus Equus;</hi> and enter into the Society of a parcel of Pedlars and Tinkers, and ſay I confederated with them <hi>quatenus</hi> Merchants: The meaning is, by a reſerve you can joyn viſibly with one Church, and be a Communicate with another ſort of Church at the ſame time. Well, the Old Nonconformiſts, nor you, are to be no Preſidents to us in this caſe. We will not in<g ref="char:EOLhyphen"/>jure any Church ſo as to impoſe upon them terms of Communion, as we would have none impoſe upon us. So far as the old Noncon<g ref="char:EOLhyphen"/>formiſts, and the old Reforming Conformiſts, went forward with Reformation, to bring the Church out of the Wilderneſs, we honour them; but when they turn back again, and entice the peo<g ref="char:EOLhyphen"/>ple ſo to do, we are afraid to tempt God in that manner, for we have ſeen what God did with his people in the Wilderneſs of old, which things were written for our Enſample, upon whom the Ends of the World are come, 1 <hi>Cor.</hi> 10.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Alſo it's a miſtake to ſay, That Communion by the Litur<g ref="char:EOLhyphen"/>gy is a Symbol and Pledge of the foreſaid Incorporation in the Church of <hi>England,</hi> in its preſent conſtitution; it is only a part of the Communion commanded, but no ſuch Symbol: And here's two Errors.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>An Incorporation into a <hi>Species,</hi> is an Incorporation into the <hi>Genus;</hi> that which is Incorporated into the <hi>Species</hi> of <hi>Homo,</hi> and therefore receives that true denomination, is Incorporated into the <hi>Genus Animal.</hi> Or take the Church as an <hi>Integrum;</hi> that which is incorporated into an integ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al part, is incorporated into the <hi>Inte<g ref="char:EOLhyphen"/>grum,</hi> communion with the <hi>Integrum</hi> is <hi>per partes;</hi> and ſuch incorpo<g ref="char:EOLhyphen"/>ration into any of the Parts, is an evidencing Pledge, which is a
+<pb n="13" facs="tcp:134627:8"/> Symbol of Communion with the whole; as by a Turf, you take poſſeſſion of an Eſtate in Land, and by the delivery of a Key, and entring the Houſe, you take poſſeſſion; <hi>i. e.</hi> Theſe are Symbols or Pledges of your being inſtated in the whole.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>For firſt, the Rulers openly declare that they take multi<g ref="char:EOLhyphen"/>tudes to be none of their Church, who joyn in the Liturgy.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>That's falſe: Where do any Rulers by any Law declare ſo? And if any ſay ſo, it's only concerning ſuch as yield not to their required terms of Communion, in joyning with the Worſhip of the Liturgy, as the Eſtabliſhing Law requires; and will you joyn Communion with a Church, whoſe Officers plainly declare that you are none of their Church, whilſt you Communicate? Surely you either ſtrangely impoſe upon them to communicate, being a de<g ref="char:EOLhyphen"/>clared Non-Member, or they are pitiful Church-Rulers, that look no ſtricter to their Communicants, but whoſe will may break in upon them: So that here's a Church in Communion with thoſe that are declaredly none of its Communion, and Members and Non-Members, in Communion, and Non-Communion, with a Church and no Church: This is a very pretty Riddle!</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>And it is Subſcribing, Declaring, and Swearing Obedi<g ref="char:EOLhyphen"/>ence, which is the Symbol.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Of what? Of Lay-Communion? You ſhould ſpeak out your Sentences, and not ſqueez off a piece: Are any of thoſe re<g ref="char:EOLhyphen"/>quired of Lay-Communicants? Nay are they not of another Na<g ref="char:EOLhyphen"/>ture, qualifications of actual Communicants for Office-Power? I wonder that grave men, and Divines, will dare to Equivocate ſo. Is not Baptiſm (according to the Liturgy) a Symbol of Incorpora<g ref="char:EOLhyphen"/>tion into the Church of <hi>England?</hi> Confirmation another? Recei<g ref="char:EOLhyphen"/>ving the Lords Supper, another Symbol? ordinary Attendence on the Service, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Yea, they Excommunicate many that come to the Litur<g ref="char:EOLhyphen"/>gy-Service.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>For what? For Baſtardy, Whoring, Swearing, Drun<g ref="char:EOLhyphen"/>kenneſs; theſe ſhould for all their coming to the Liturgy be Excom<g ref="char:EOLhyphen"/>municated<g ref="char:punc">▪</g> But why do they Excommunicate them? Is it not be<g ref="char:EOLhyphen"/>cauſe they look upon them as incorporated Members before Excom<g ref="char:EOLhyphen"/>munication? It were Nonſence for a Church to Excommunicate a declared Non-Member. And are not Excommunicate Perſons kept from coming to the Communion by the Liturgy? So that
+<pb n="14" facs="tcp:134627:9"/> it's apparent, Communion in the Liturgy is the Symbol, yea, door of in-let to, and out-let from incorporation with the Church.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>And many come to it, who openly diſown the Dioceſan preſent Conſtitution; ſo did the old Nonconformiſts, and many Forreigners, <hi>French</hi> and <hi>Dutch.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Your Self for Example, the chief Head of that Trimming Sect, whoſe practice condemns their declared Opinion, and that your Rulers know, or elſe would not connive at ſuch a ſcandalous ſort of communicants, that deny the profeſſed ſtanding and form of a Dioceſan Church, whilſt they have communion wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h it; and ſay, they communicate with it, <hi>qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tenus</hi> a Presbyteri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Aſſociati<g ref="char:EOLhyphen"/>on of Churches. Thoſe old Nonconformiſts that did ſo, are no Preſidents to us; If they hal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed and were lame, muſt we be ſo? Such Communicants are not acceptable to any Church; and I know what Church would never admit them, were it not to puniſh and expoſe them and their Profeſſion, as ridiculous, and inconſiſtent with it ſelf. And as for <hi>French</hi> and <hi>Dutch</hi> what are they to us, or any other, any more than they follow Chriſt? And if the Church do not do their duty towards diſorderly communicants, let them look to it, it's none of our fault.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>If one may joyn in Communion of Worſhip with a Presby<g ref="char:EOLhyphen"/>terian, Independant, or Anabaptiſt Church, without owning the Errors of their Conſtitution, then ſo we may with a Pariſh Church But, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>And a Dioceſan too, you ſhould ſay; for in joyning with<g ref="char:punc">▪</g> one, you joyn with the other as ſuch. And I will tell you, if they make their Errors the condition of your communion, you cannot joyn in communion, <hi>&amp;c.</hi> without owning their Errors; Suppoſe a Presbyterian Church makes worſhiping according o the Directo<g ref="char:EOLhyphen"/>ry the condition of their Communion and I look upon this as their Error, or that it is a falſe Rule of Worſhip; do not I in joyning in Communion by the Directory, own their Error? So Baptiſts making Re-baptizing the condition of communion with them, and I look upon it as a ſin, do not I own their Error, by joyning wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h them on this condition? and ſo groſly condemn my ſelf, and commit a known ſin; yea, 'tis no better than a preſumptuous Sin.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>You mi take when you ſay it is by the Law of the Land.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>I admir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you can ſay it, when I know you cann't but be better acqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inted with the Laws, then ſo<g ref="char:punc">▪</g> You ſhould have in<g ref="char:EOLhyphen"/>ſtanced
+<pb n="15" facs="tcp:134627:9"/> in ſome part or clauſe that had excepted ſome Communi<g ref="char:EOLhyphen"/>cants from being reckoned of that Church: They would thank you for it, that they might not be liable to Excommunication. All that are liable to a Church-Excommunication when they have offen<g ref="char:EOLhyphen"/>ded, are declared Members of the Church. But all Communi<g ref="char:EOLhyphen"/>cants <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Native Inhabitants are ſo; therefore the Law hath ex<g ref="char:EOLhyphen"/>cepted none.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>You miſtake again, when you ſay it is ſo by the Canons.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Is it poſſible you can charge ſuch things for miſtakes? doth not the 22<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Canon require every Pariſhioner that is a Lay Perſon to communicate thrice every year? Is not that for a Symbol of their Incorporation with the Church of <hi>England,</hi> which is affirmed to be a true Apoſtolick Church, <hi>Can.</hi> 3. <hi>Can.</hi> 14 89. and how comes it to paſs that the Churc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hath power of Excommunicating any per<g ref="char:EOLhyphen"/>ſon, but by vertue of Incorporation, which ſhe hath by the ſame Law? He that is not in the Church, how comes he to be caſt out? And how was it that he is eſteemed one? Is it not by vertue of the Church Canon or Rubrick? Is he not by communion in the Sacra<g ref="char:EOLhyphen"/>ment of Baptiſm made a Member? Is not that communion of the Li<g ref="char:EOLhyphen"/>turgy: So for Confirmation, or other Liturgical Worſhip, that are made neceſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry conditions of communion, are they not Symbols of their Eccleſiaſtical Incorpor tion, the neglect whereof is puniſhed with Excommunication. And likewiſe thoſe that do not ſubmit to the things therein commanded, not to be admitted to the Commu<g ref="char:EOLhyphen"/>nion of the Sacram<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts, and therefore to be reckoned as no Mem<g ref="char:EOLhyphen"/>bers. <hi>Can</hi> 27. <hi>Sc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ticks not to be admitted to the Communion?</hi> 
+                  <q>No Mininiſter when he celebrateth the Communion, ſhall wittingly adminiſter to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t to ſuch as kneel under p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in of Suſpenſion, nor under the li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that refuſe to be preſent at Publick Prayer, accordin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ders of the Church of <hi>England.</hi>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>I formerly inſtanced in one of the ſharpeſt Nonconfor<g ref="char:EOLhyphen"/>miſts, o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Mr. <hi>Humpney Feu</hi> of <hi>Coventry,</hi> who would ſay aloud <hi>Amen</hi> to all he Common Prayer, ſave that for the Biſhops; by which all th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e know his mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; whether it were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight or wrong, I now determine <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. So here are t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ree more of your Miſtakes, <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rk'd</hi> 7, 8, 9 Errors.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his the onl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> proof you bring of your charge of three Errors <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mr. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> F n</hi> would not ſay <hi>Amen</hi> to the Pray<g ref="char:EOLhyphen"/>ers for the Biſhops, and you do no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> determine it, Right or wrong;
+<pb n="16" facs="tcp:134627:10"/> And yet his practice, or rather offenſive forbearance, is proof e<g ref="char:EOLhyphen"/>nough of three Errors in the Manuſcript. Is not this an admira<g ref="char:EOLhyphen"/>ble way of Reaſoning? I had thought Errors in Divinity, had been to have been proved from the Word of God, and not from the ſullen practices of an half-pac'd doting Nonconformiſt, which you know not whether it be Right or Wrong; ſurely Wrong, for Mr. <hi>Fen</hi> he ought to have pray'd for his Paſtor.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>You make all other Reſerves of our own to be allowed neither by God nor good men. And this mark'd for two Errors, X, XI.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>The Words are, <hi>By this Rule muſt our Profeſſion and Pra<g ref="char:EOLhyphen"/>ctice be judged;</hi> that is, by their agreement or non-agreement with the Churches Rule of Worſhip. The common underſtanding of all, both Conformiſts and Diſſenters, is, That any man that holds communion with the Church, in the Worſhip of the Lyturgy, doth give to the world an Evidencing Token of his Incorporation with the Church of <hi>England,</hi> in its preſent conſtitu<g ref="char:EOLhyphen"/>tion; and ſo did Mr. <hi>Fen,</hi> for all his refuſal of his Amen for the Biſhops; and ſuch Reſerves as thoſe, are not allowed by God or by good men. For a man to joyn in communion with a Church, and have a reſerve that it is not ſuch a Church as they profeſs themſelves to be, that the Paſtor is no Paſtor and not fit ſo much as to pray'd for; that's a ſweet Church-member!</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Here are two miſtakes, 1. God makes it our great duty to hold Communion with moſt or all the Churches on Earth, with theſe Reſerves, <hi>i. e.</hi> to own them in all that is good, and diſown all their evil, though the Laws command the owning of them; Without this Reſerve, I would not joyn with yours, or any Church on Earth.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>And with this Reſerve, you may hold Communion with the Church of <hi>Rome,</hi> and you may keep any company of any ſort: This Principle ſmells very ſtrong of I know what; I know alſo who can ſwear any Faith, or Allegiance, never intending to keep one word of it, and call it good Divinity; it's all ſalved well enough, hwit a Reſerve; yea, and can do any evil actions, and it's all well enough if there is a good meaning, and a reſerve. This I think you call <hi>Mental Separation</hi> elſewhere: it is an admirable <hi>Panacaea</hi> for a man to carry about in his pocket, now-a-days. But I pray will it ſerve in all caſes of Church-Communion, when you know of Sin that will
+<pb n="17" facs="tcp:134627:10"/> certainly be committed in the Worſhip, before you come to it, and that you muſt practically by viſible participation have Communion in that Sin or Error; will a Reſerve preſerve you from the guilt of that Sin? That which you ſpeak of, is another thing, all Adminiſtrators and Churches are liable to Errors; but we ſpeak of Errors in the Rule of Worſhip, and the conditions of Communion fore-known, fore-judg'd by you: will God or good men allow of ſuch? We ſpeak not of the ordinary perſonal failings of men; could you by vertue of this Reſerve, ſub<g ref="char:EOLhyphen"/>mit to Re-baptiz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion, the condition of their Church Communion? And many Inſtances might be given of the like Nature.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>And it is an immodeſt Error to ſay that none are good men that are not of your mind.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>It's an immodeſt falſe thing, if you affirm that ever Dr. <hi>O.</hi> ſaid ſo, or that there is any ſuch thing in the Manuſcript.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>He that joyns in the Worſhip of the Common Prayer doth by his Practice make Profeſſion, that it is the true Worſhip of God, accept<g ref="char:EOLhyphen"/>ed with him, approved of him, and wholly agreeable to his mind and will. To do it with other Reſerves, is Hypocriſie, and worſe then the thing it ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lf without them Happy is he that condemneth not himſelf in the thing which he alloweth,</hi> Rom. 14.12.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>This is the 12th Miſtake, and one that hath dreadful con<g ref="char:EOLhyphen"/>ſequents: 1. It contradicteth the Expreſs Profeſſion of the Communi<g ref="char:EOLhyphen"/>cants, who openly tell the World, That they take not the Lyturgy to be <hi>[wholly agreeable to Gods mind and will]</hi> and you are not to feign a Profeſſion of men contrary to their open Proteſtation.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>If men appar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntly pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctice contrary to their Proteſtation, I call that, (and all men do) Profeſſion; and I feign it not: If men profeſs (that the revealed mind and will of God is the only unerring Rule of Worſhip) with their Tongues, and yet in practice ſubmit to, and joyn in Communion with a Worſhip which they openly declare to be by a falſe and Erring Rule, they make their Profeſſion contradict their Profeſſion: For they that cann't juſtifie a Rule as wholly agreeable to the mind and will of God, and declare that it is not ſo, and yet worſhip God according thereunto, do practice contrary to their declared Pro<g ref="char:EOLhyphen"/>feſſion. This we ſtand to as Truth, and will never be baffied to the Worlds End.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>It is moſt direful <hi>to your own Separating Followers;</hi> who by this are ſuppoſed to profeſs all your Worſhip to be agreeable to Gods mind and will: And ſo all the honeſt well-meaning People are made guilty of all the Errors which you put into your Worſhip.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:134627:11"/>
+               <speaker>J. O.</speaker>
+               <p>That Spirit of bitterneſs that appears here in this underta<g ref="char:EOLhyphen"/>king of yours, as many other things of the like Nature, little becomes a Miniſter of Chriſt, and one that in effect hath ſometimes writ him<g ref="char:EOLhyphen"/>ſelf <hi>Our Brother and Companion in Tribulation, and in the Kingdom and Patience of Jeſus Chriſt:</hi> I could ſpeak much of my mind to you upon this Subject, but for ſome Reaſons I only hint (as <hi>Verbum Sapienti</hi>) how ſharp many of your Invectives have been in the Hearts and Spirits of Chriſt's Members. 1. For your putting the title ſo often of <hi>Separa<g ref="char:EOLhyphen"/>tiſts, Separating followers, dividing Separatiſts,</hi> upon thoſe who are ten<g ref="char:EOLhyphen"/>der of the Honour of God in the Purity of his Ordinances, you do but therein Eſpouſe the Quarrel the Beaſt hath had with the Woman, ever ſince ſhe came into the Wilderneſs, in laying all manner of Reproaches upon her Seed, as well as Sufferings, for hiding her ſelf from his Abo<g ref="char:EOLhyphen"/>minations, and keeping their Garments undeſiled by falſe Worſhip: The day will come that you will ſee thoſe <hi>ſtanding upon M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unt Zion, ſinging the Song of</hi> Moſes <hi>and the Lamb;</hi> to be Separating followers, not of me, but of the Lamb. 2. We endeavour to teach thoſe people you ſo contemptibly mention, That God is to be Worſhipped by a Rule wholly agreeable to his mind and will, yea and a perfect and unerring Rule, not of mans making, and unagreeable to Gods mind and will, as you confeſs. Though we acknowledge all the performances of Gods beſt people in this World, are full of imperfections and weakneſſes, and hence come ſhort of his perfect Rule, yet we dare not ſet up any Rules of Worſhip more then Chriſt hath, nor make our Errors the con<g ref="char:EOLhyphen"/>dition of Church-communion; which laſt we ſhould do, if we ſhould do the firſt: What we do, is in waiting upon Chriſt for a further at<g ref="char:EOLhyphen"/>tainment to the knowledge of his will, and ſtrength to walk up thereto; and ſo far as we have attained, we deſire in all meekneſs and humility to walk.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p n="2">2. It is contrary to your own Profeſſion, that you could in Charity Communicate with Presbyterians and Anabaptiſts; and ſo you approved of all the Errors of their Worſhip.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>VVe approve of none of the Errors of a Church or People that fall out by reaſon of Ignorance not wilful, and Infirmity; when we ſee them truly deſign the honour of Chriſt, and the Purity of Ordinances, deſiring to walk as near as poſſible to the Rule of the Goſpel, accord<g ref="char:EOLhyphen"/>ing to their beſt light, then we have Communion with them: But if they make to themſelves Rules of VVorſhip which Chriſt never made, and make their Erring and Sinful Rules (ſuch as are ſo to us) the ſtanding and unalterable conditions of Communion, we cann't com<g ref="char:EOLhyphen"/>municate
+<pb n="19" facs="tcp:134627:11"/> with them, by what ever Names ſuch Churches are call'd.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p n="3">3. It maketh it a down-right ſin to communicate with any Church on Earth, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>VVe utterly deny this Conſequence upon the Reaſons before<g ref="char:EOLhyphen"/>mention'd; we diſtinguiſh between the <hi>Rule</hi> of Worſhip, and the <hi>Ad<g ref="char:EOLhyphen"/>miniſtration</hi> and <hi>Performance:</hi> For is there not ſuch a thing as fellow<g ref="char:EOLhyphen"/>ſhip with others in Sin, and partaking in other mens ſins? 1 <hi>Tim.</hi> 5.22. <hi>Rev.</hi> 18.4. If there be ſuch a thing as this, it muſt be in ſome ſort of Sins; Sins of ordinary infirmity (ſuch as you would force us upon here) it cann't be, becauſe then I could have no Communion on earth. 2. The ſins of others, that I have no knowledge of before-hand, ſo as to prevent joyning in company with them, there my keeping my ſelf from participation, muſt be by witneſs againſt it, due Reproofs, <hi>&amp;c.</hi> and upon Non-Reformation, to ſeparate my ſelf again. 3. There are the ſins of others, that are known to me, that will certainly be com<g ref="char:EOLhyphen"/>mitted, I know it, alſo of what kind and nature, and by my preſence I give a tacit conſent; and all that ſee me, by outward geſture and be<g ref="char:EOLhyphen"/>haviour, will judge me as far engaged in it as others: Is it enough for my juſtification, to ſay I have a Reſerve? Your other Conſequences there<g ref="char:EOLhyphen"/>fore will not hold, that if I ſay it is Hypocriſie for me to joyn with any Church in the Communion of known falſe Worſhip, <hi>i. e.</hi> with them that Worſhip God by a falſe Rule; That, 1. <hi>I must hold no Communion with any Church on Earth:</hi> 2 <hi>That it's a breach of the</hi> 9th <hi>Cammand;</hi> for I judge not others in particulars; but to pretend to ſerve God with a Re<g ref="char:EOLhyphen"/>ſerve, in publick falſe Worſhip, or any falſe worſhip, I affirm to be Hypo<g ref="char:EOLhyphen"/>criſy; to perform the External part in compliance with men, &amp; pretend my heart was all this while for God. 3. <hi>That it's no friendly Act to the Church;</hi> for there is no friendlier Act to the Church, then to Endea<g ref="char:EOLhyphen"/>vour the Reformation of her. 4 <hi>That it is Self-condemning;</hi> for we ſay the practice that we plead againſt, is certainly ſo, and prove it from <hi>Rom.</hi> 14.12. 5. <hi>That it makes Chriſt and his Apoſtles Hyyocrites;</hi> for we have proved that Chriſt never joyned with falſe VVorſhip ſo much as with his preſence at the place of it, unleſs with this intent, to bear witneſs againſt it, (as the young Prophet that came to <hi>Jeroboams</hi> Altar) neither did he ever adviſe his Diſciples ſo to do: As for <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> Chair, it was then Chriſts own Inſtitution, and he had then no o<g ref="char:EOLhyphen"/>ther Church or Inſtitution of VVorſhip on Earth.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>There may be a falſe Worſhip of the True God, as well as a Worſhip of a falſe God: ſuch was the Worſhip of Jehovah the Lord, by</hi> 1. <hi>Calf in the Wilderneſs,</hi> Exod. 33.5, 6. <hi>Such was the feaſt unto the
+<pb n="20" facs="tcp:134627:12"/> Lord ordained by</hi> Jeroboam <hi>in the eighth month, the fiſteenth day of the month, which he had deviſed of his heart,</hi> 1 King. 12.32, 33.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Your third Premiſe is unqueſtionable.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>I am glad to ſee there is one Line without an Error.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>But if you diſtinguiſh not of falſe Worſhip, you make but falſe Work of it: 1. To be falſe, is corrupting Gods own neceſſary Wor<g ref="char:EOLhyphen"/>ſhip; <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We know of no true Worſhip, but <hi>Gods own neceſſary Wor<g ref="char:EOLhyphen"/>ſhip;</hi> as for that which is not his own, nor <hi>neceſſary,</hi> God cares not for it, and we are better without it, then with it.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>There is that which is falſe in Integrals, Accidents, Degrees, pardoned failings.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Worſhip is never called falſe, from failings only; when true, it's ſuppoſed we worſhip by a true Rule, and a good heart, which carries us forth to all careful endeavours to come up to it: As for falſeneſs in Integrals, we affirm that it gives the denomination to the whole; for an Integral part is an eſſential cauſe of the whole.</p>
+            </sp>
+            <sp>
+               <speaker>R. B</speaker>
+               <p>To be falſe, is to be diſagreeable to the Rule.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>That is not Univerſal, for it's not falſe to be diſagreeable to a falſe Rule. 2. There is no performance but in failings is diſagree<g ref="char:EOLhyphen"/>able to Gods perfect Rule 3. It's rather thus; when the Rule of Worſhip is diſagreeable to the revealed mind and will of God: Its the Rule muſt be the Standard of Truth and Falſehood, as to performances, and Gods Rule muſt be the Standard, and all others that are not his are falſe. Sinful Worſhip and falſe, are not reciprocally the ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>On theſe Suppoſitions, the Propoſition laid down, is proved by the following Arguments.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>And therefore Sir, it's not juſtice to fall foul upon the follow<g ref="char:EOLhyphen"/>ing Arguments, you having denyed the Truth of theſe Premiſes, up<g ref="char:EOLhyphen"/>on which the Arguments are founded. But ſeeing we have gone ſo far as to defend our Premiſes, we will proceed to defend the Arguments grounded upon them.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>Arg. 1. <hi>Religious Worſhip not divinely inſtituted and ap<g ref="char:EOLhyphen"/>pointed, is falſe Worſhip, not accepted with God: But the Liturgical Worſhip intended, is a Religious Worſhip not Divinely inſtituted and ap<g ref="char:EOLhyphen"/>pointed:</hi> Ergo <hi>not accepted with God.</hi>
+               </p>
+               <p>
+                  <hi>The Propoſition is confimed by all Divine Testimonies, wherein all ſuch Worſhip is expreſly condemned: See</hi> Deut. 4.2. Chap. 12.32. Prov. 30.6. Jer. 7.31. Iſa. 29.13, &amp;c. <hi>that eſpecially where the Lord Chriſt re<g ref="char:EOLhyphen"/>ſtrains all Worſhip to his alone command,</hi> Matth. 28.20.</p>
+               <pb n="21" facs="tcp:134627:12"/>
+               <p>
+                  <hi>It is anſwered to the Minor Prepoſition, That the Liturgical Worſhip is of Chriſts appointment, as to the Subſtantials of it, though not as to its Accidentals; namely, Prayer and Praiſes; not as to its outward Rates and Form, which do not vitiate the whole.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>To your firſt Argument, I anſwer: 1. As to the bare name, either you will call all Acts done to ſignifie immediately the Souls ho<g ref="char:EOLhyphen"/>nouring of God by the Name of <hi>Worſhip,</hi> or will not; if not, then that which is no Worſhip, is no falſe Worſhip; if you will, then your Propoſition is falſe.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>You love to play in the dark, and impoſe upon us your Sup<g ref="char:EOLhyphen"/>poſitions, when you have ours expreſly before you: We take <hi>Religious Worſhip</hi> as the <hi>Genus,</hi> and its diſtributed into <hi>true</hi> and <hi>falſe;</hi> all falſe Worſhip ſtrictly taken, is no Worſhip; and the Spirit of God ſome<g ref="char:EOLhyphen"/>times ſpeaks of it ſo; <hi>We know an Idol is nothing in the World:</hi> But in the uſual acceptation of the Scripture, becauſe men intend it for a Worſhip, and commonly call it ſo, it's named a Worſhip, but a falſe Worſhip. Again, we diſtribute <hi>True Religious Worſhip</hi> into <hi>Natural</hi> and <hi>Inſtituted;</hi> theſe may be either of them <hi>True</hi> alſo, or falſe. The Argu<g ref="char:EOLhyphen"/>ment is to prove a certain kind of Religious Worſhip, which the Church is appointed to uſe, to be falſe, and it runs thus, the Medium is [Divinely]</p>
+               <p>
+                  <hi>All Religious [appointed or inſtituted] Worſhip not Divinely inſtituted, is falſe Worſhip, not accepted of God.</hi>
+               </p>
+               <p>Now you ſay either we mean by Religious Worſhip all Acts done to ſignifie immediately the Souls honouring God, or we do not: We de<g ref="char:EOLhyphen"/>ny your disjunction, <hi>nam partes diſjunctae non ſunt oppoſitae ſine velo me<g ref="char:EOLhyphen"/>dio;</hi> for we do not mean all, but we mean ſome, we ſpeak but of ſome Acts: <hi>Generalis Axiomatis contradictio, non ſemper dividit verum á falſo;</hi> but there muſt be <hi>Specialis contradictio generalis Axiomatis,</hi> to make a true diviſion: <hi>Ergo</hi> we ſay we are not neceſſitated (as you would have it) to mean all or none. As if when we were ſpeaking of rich or wiſe men, you will ſay either you mean all men are wiſe, or no men are wiſe; if you mean all men, that's falſe; if you mean no men, no men are not unwiſe men: This is ſuch a rude piece of Sophi<g ref="char:EOLhyphen"/>ſtry, that is very unbecoming a Doctor of the Chair. There are Acts ſignifying our immediate honouring of God in the Soul, which are not here intended. We tell you Prayers and Praiſes are Natural Worſhip, conſidered meerly as ſuch: likewiſe there are indifferent occaſional Acts attending Natural Worſhip; as ſuppoſe, lifting up the hands or eyes to God in Prayer, or in an uſual Ejaculation, or holy Meditati<g ref="char:EOLhyphen"/>on.
+<pb n="22" facs="tcp:134627:13"/> You know we mean by <hi>Worſhip,</hi> a <hi>preſcribed inſtituted Worſhip,</hi> li<g ref="char:EOLhyphen"/>mited by a particular Rule and Form to walk by: The Jewiſh Wor<g ref="char:EOLhyphen"/>ſhip was inſtituted, and ſo the Goſpel Worſhip of the New Teſtament.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>I take it for granted, that by Gods inſtituting, you mean not a general Command to man to inſtitute it, ſuch as <hi>[Let all things be done to Edification]</hi> if you did, your Minor is not true.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>God never gave any general Command to man to inſtitute, <hi>i. e.</hi> to preſcribe his Worſhip by a Law; Gods giving us a Rule to walk by in indifferent and occaſional circumſtances of his Worſhip, is no Command to us to make Inſtitutions: Inſtitutions are not to be alter'd at our diſcretion; and general Rules that limit our diſcretiona<g ref="char:EOLhyphen"/>ry Actings, are ſo far Gods Inſtitutions; but thoſe acts of ours, guided <hi>pro hic &amp; nunc,</hi> lawfully by general Rules, any of them are not by us to be brought into a binding Law, <hi>ad omne &amp; ſemper,</hi> neither for our ſelves nor others, for that would be a humane Inſtitution in Gods Worſhip; therefore your diſtinction of Inſtituted Divine Wor<g ref="char:EOLhyphen"/>ſhip into Primary and Secondary, cann't be admitted; for there is no Worſhip of Gods inſtitution, Secondary; your Secondary Limitati<g ref="char:EOLhyphen"/>ons of the circumſtances and uſe of natural Worſhip not Inſtituted by God, is mans Will-worſhip only, and therefore falſe Worſhip.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Your wrong Expoſition of all the Texts here cited, is more then one miſtake; [Mark Error XIV.] Deut. 42. &amp; 12.32. Prov. 30.6. <hi>Forbids adding to Gods Worſhip;</hi> which is broken by all that ei<g ref="char:EOLhyphen"/>ther ſay, That that is in Gods Worſhip which is not there, (as you do here.)</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Do we not ſay that they that verbally or practically ſay that that is in Gods Inſtituted Worſhip, or belongs to it, which he never commanded, adds to it?</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Or deviſe any Worſhip-Ordinances, Co-ordinate, or of the ſame ſort with his own, as if they were imperfect.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We ſay ſo far the ſame, that they that deviſe an Inſtitution co-ordinate with Gods, ſet up Poſts by his Poſts, make them of equal Authority, yea greater then Gods, by exacting the obſervance of them by Severer Penalties then they do Chriſts Inſtitutions; yea, thruſt out Chriſts, and bring theirs inſtead. You ſay they muſt be of the ſame ſort, that's impoſſible, a Humane and Divine Inſtitution differs <hi>toto ge<g ref="char:EOLhyphen"/>nere;</hi> therefore that's to ſuppoſe, that which never was; and all ſuch adding aforeſaid, is as if God were imperfect.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>But there is not a word forbidding Subordinate Secondary Acts of Worſhip, ſuch as kneeling, putting off the Hat, uſing writ<g ref="char:EOLhyphen"/>ten
+<pb n="23" facs="tcp:134627:13"/> Notes in Preaching, Forms of Singing, Praying, Catechiſing, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>You might bring in what coloured cloaths the Miniſter ſhould wear, what kind of Caps, Hats, Perriwigs, Pulpit, the Print of the Bible, the ſize of it, the tune the Pſalmes ſhould be ſung in, the Pues, the faſhion of the Church, the poſture of the Communion-Table, the clothes, the Cups for Sacrament Wine, &amp;c. ſuch things are no parts of Gods Worſhip at all, but natural Attendants, or Conveniences to Worſhip in general, that God under the Goſpel hath placed none of his Worſhip in; he hath by no limiting Inſtitution given any ſanction to them; they are diſcretionarily to be uſed, or omitted, or altered at pleaſure of the preſent Worſhippers, according to the general Rules of doing all things to Gods glory and our own Edification; and its the Churches Priviledge that they have by Goſpel Charter; that no humane ſecondary Law can rob them of. And if there be ſuch made, they are not Gods, its adding Laws to Gods Laws of Worſhip to make them, and therefore here forbidnen.</p>
+               <p>See now what ſome of your Secondary Worſhip would come to; if it may bind one way, it may another; and if it may be according to one Rulers humour, it may be according to anothers; and if in one kind of ſuch circumſtances, then in another; then all the old Popiſh Croſſing, Cringing, Robes, Veſtments, Altars, Salt, Spittle, Holy Water, <hi>&amp;c.</hi> may come in: Likewiſe in the Particulars inſtanced in by you, it may be preſcribed by Law how long the Sermon ſhall be, how long the Prayer, what matter and words in both to be uſed at ſuch a time, whether the Miniſter ſhall preach with Notes, or without; that the People ſhould always kneel at prayer, or always ſtand; or times of kneeling and ſtanding: So in reading and hearing the Word; what tune ſhould be ſung to every Pſalm, and what Pſalm at each time, and what times, what Metre, what Catechiſe to be uſed, and when to be done, <hi>&amp;c.</hi> with a thouſand things more; and theſe upon what Penal<g ref="char:EOLhyphen"/>ties the Law-maker pleaſes, Spiritual or Pecuniary, or Corporal Mulcts; would not here come in ſuch a Monſter under the name of Secondary Worſhip, that would fright away all Gods true Worſhip<g ref="char:EOLhyphen"/>pers from Communion with it?</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>It was forbidden things, which in <hi>Iſa,</hi> 29.13. &amp; <hi>Matth.</hi> 14, are reproved, <hi>as being Precepts of Men,</hi> or things feigned to be neceſ<g ref="char:EOLhyphen"/>ſary acts of Obedience to God, which are not ſo.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>VVe ſay they were forbidden; Precepts of men are humane Laws in Divine things; their Traditions and Inventions, which they make neceſſary by their Laws, and enforcing of them, and then they
+<pb n="24" facs="tcp:134627:14"/> are feigned ſo by men: It's not to be found that all the <hi>Phariſees</hi> Su<g ref="char:EOLhyphen"/>perſtitions were particularly mentioned and named in the Prohibiti<g ref="char:EOLhyphen"/>ons in the old Teſtament, nor a quarter of them by Chriſt in the New: yet condemned by him as the Precepts of men; <hi>i. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> They had nothing but humane Sanction, they were forbid by Chriſts general Laws, being excluded, and a charge that no Laws of Divine VVorſhip ſhould be added as primary or Secundary to his. His Diſciples were not to go beyond his Commiſſion, to teach any thing but what he had command<g ref="char:EOLhyphen"/>ed, or ſhould, <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tth.</hi> 28 20. To go beyond a Commiſſion, is to break and forfeit it, in aſſuming that power that was never given in it, by mens Law, much more by Gods; though the Particulars wherein the Forfeiture of Charter or Commiſſion lies, were not particularly menti<g ref="char:EOLhyphen"/>oned, when the Commiſſion or Charter was drawn: it's enough that there is nothing therein contained to authorize ſuch practices.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>But its replied, There is nothing accidental in the Worſhip of God; every thing that belongs to it, is part of it Some things are of more weight, <g ref="char:V">Ʋ</g>ſe, and Importance than others,</hi> Mat. 23.27. <hi>but all things duely belonging to it, are parts of it, or of its ſubſistence; outward circum<g ref="char:EOLhyphen"/>ſtances and occaſional, no accidental parts of Worſhip.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>As to your Reply, it's the ſtrangeſt that ever I read from ſo learned a man, and is a great miſtake [Error XV.] What is there in the World, that is a Subject without Accidentals? Gods Worſhip hath a multitude of Accidents; as, the Hour, the Place, the Pulpit, Tables, the Cups of Silver, the Linnen and other Ornaments; the Books Printed, the Metre, the Tunes, Chapters, Verſes, the Words of Tranſlation, the Building, Geſtures, Veſtures, Treaſures.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>The preſcribing theſe and their fellow natural circumſtances, by <hi>particular</hi> limiting Laws, may make a Book as big as that of the Martyrs. Are they not pretty things to be called part of Gods inſtituted Wor<g ref="char:EOLhyphen"/>ſhip? They are natural accidents of Worſhip, but not limit d or inſtitu<g ref="char:EOLhyphen"/>ted: Is it not pretty to ſay the hour and place is part of the Worſhip, the Pulpit of Preaching, the Silver Cups and Cloth a part of the Sa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ram nt? But Bread and Wine is part, though of leſs natural value in its ſelf, then the Plate it's put in. There is no inſtituted limitations of the uſe of theſe ſaid particulars in Worſhip; therefore not ſo much as proper adjuncts, or integral parts, which all Chriſts Ordinances are, though of more or leſs uſe, yet of equal Authority; the leaſt Pin in the Tabernacle, with the greateſt Beam, all muſt be done by the Pattern, <hi>as God commanded Moſes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="25" facs="tcp:134627:14"/>
+               <speaker>R. B.</speaker>
+               <p>You add another Miſtake, [Error XVI.] That every thing belonging to it, is a part of it.</p>
+            </sp>
+            <sp>
+               <speaker>J. O</speaker>
+               <p>We ſay that every thing <hi>duely</hi> belonging to Divine Inſtituted Worſhip is a part of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t; becauſe it cannot duely belong to it as a <hi>pro<g ref="char:EOLhyphen"/>per Adjunct,</hi> but by Divine Inſtitution. You run upon a great miſtake, to talk ſo much of Phyſical Common Adjuncts that never did partici<g ref="char:EOLhyphen"/>pate of the nature of the Subject; all things duely belonging to a man, as ſuch, is part of him; all proper adjuncts are ſo, all integral parts are ſo; but Cloth, Money, a Houſe, <hi>&amp;c.</hi> are not ſo; therefore you did not deal fairly in leaving out <hi>[duely]</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>You ſay, <hi>[Outward Circumstances are natural and Occaſional, no accidental parts of Worſhip]</hi> Anſwer. Juſt now all accidents were parts, (or elſe accidents belong not to it) and now it hath no acciden<g ref="char:EOLhyphen"/>tal parts: a mans name, Relation, Trade, Cloathing, Age, Houſe, <hi>&amp;c.</hi> belong to him, and no parts of him.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We contradict not our ſelves in the leaſt, we ſay there is no accidental part in the Worſhip of God, no one part that can't be called Gods Worſhip; there's no common adjuncts belonging to it, that can be called Inſtituted Worſhip; or a part of it, as Silver Cups in the Sacraments, Tables, <hi>&amp;c.</hi> theſe I ſay are natural, occaſional, no parts, though accidents, they do not duely belong as integral parts, therefore it hath no accidental parts of its ſubſiſtence; the Accidents are com<g ref="char:EOLhyphen"/>mon and ſeparable, as thoſe of a man that you inſtance in, and ſay are no parts, ſo in a manner you have granted all. Moſt of the things in<g ref="char:EOLhyphen"/>ſtanced in by you, are not only no proper adjuncts of Inſtituted Wor<g ref="char:EOLhyphen"/>ſhip, but none of Worſhip in general, for they are common to other things.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>Prayers and Praiſes abſolutely conſidered, are not an In<g ref="char:EOLhyphen"/>stitution of Chriſt, they are a part of natural Worſhip common to all Man<g ref="char:EOLhyphen"/>kind; his Inſtitution reſpects only the internal form of them, and the man<g ref="char:EOLhyphen"/>ner of their performance: But this is that which the Liturgy takes on it ſelf, namely to ſupply and determine the matter, to preſcribe the manner, and to limit all the concerns of them, to modes and forms of its own; which is to take the work of Chriſt out of his hand.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Your ſecond Anſwer is no better: 1. If by <hi>Abſolutely,</hi> you mean not generally, (but as oppoſite to conditional) it hath no ſence here that I can find; but if it be in <hi>[genere]</hi> that you mean, they are no part of Worſhip at all, natural nor inſtituted; there is praying which is curſing, and ſtriving againſt God and goodneſs, and praying to Idols.</p>
+            </sp>
+            <sp>
+               <pb n="26" facs="tcp:134627:15"/>
+               <speaker>J. O.</speaker>
+               <p>Strange Logick and Divinity! 1. You need not have put your firſt ſuppoſal of our meaning, for we mean <hi>in genere,</hi> that Religi<g ref="char:EOLhyphen"/>ous Prayers and Praiſes generally conſidered, meerly as ſuch, not ſpe<g ref="char:EOLhyphen"/>cificated by any limitation, are not an Inſtitution of Chriſt: You ſay they are no part of any Worſhip at all, natural nor inſtituted; its as much ſenſe as if you ſhould ſay, When I ſay the Leg abſolutely conſi<g ref="char:EOLhyphen"/>dered, <hi>i. e.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot relatively, as it ſtands to the whole, but in reſpect of the next <hi>Genus,</hi> is no part of a man; ſay you, as ſuch, it's no part of an Animal, for its neither part of <hi>Homo,</hi> nor <hi>Brutum:</hi> Now is this good reaſoning? <hi>Negatur;</hi> for it muſt be part of one, becauſe abſo<g ref="char:EOLhyphen"/>lutely, <hi>i. e.</hi> generically conſidered, <hi>i. e.</hi> as part of an Animal; a Leg being a proper adjunct to an Animal, but cann't be found but in <hi>Homo</hi> or <hi>Brutum;</hi> you ſay, Yes, it may be the Leg of a joynt-ſtool, fetching in a remote <hi>Genus,</hi> falaciouſly: And mark the proof, for there is pray<g ref="char:EOLhyphen"/>ing that is curſing, <hi>&amp;c.</hi> therefore Praiſes and Prayers abſolutely con<g ref="char:EOLhyphen"/>ſidered, are no part of Worſhip at all. I ſuppoſe your meaning is, That Prayers are either ſuch as are Religious Worſhip, or ſuch as are not; as a <hi>Requeſt or Petition to Man, and Praiſes or Encomiums of Men,</hi> and ſo in reſpect of this remote <hi>Genus,</hi> they are no Worſhip at all; but by your favour it follows not; for though ſome are not Religious Worſhip, yet others are, and all are Worſhip of one kind or another, either <hi>Re<g ref="char:EOLhyphen"/>ligious or Civil.</hi> Again, It's plain enough that we ſpeak of Religious Worſhip in <hi>genere,</hi> and then will you ſay that Religious Prayers and Praiſes, abſolutely conſidered, are no part of Worſhip at all, neither natural nor Inſtituted? If ſo, your proof will be this, for there is pray<g ref="char:EOLhyphen"/>ing which is no Religious Praying, <hi>viz.</hi> Curſing, <hi>&amp;c.</hi> And ſo we ſee how in your Arguments you go about to delude and confound mens un<g ref="char:EOLhyphen"/>derſtandings with little School-Sophiſms, that becomes not the ſolidity of a Grave Writer, as leaping from one <hi>genus</hi> to another, <hi>fallacia gene<g ref="char:EOLhyphen"/>ris,</hi> putting a remote <hi>genus</hi> for a next, and a next for a remote; and by your leave you are out in your Divinity too, for is not an <hi>Impreca<g ref="char:EOLhyphen"/>tion</hi> a Prayer to ſome God, and therefore Worſhip? and <hi>Praying to I<g ref="char:EOLhyphen"/>dols,</hi> Religious Worſhip? will you ſay, <hi>Theſe are no Worſhip at all?</hi> You might have left out <hi>ſtriving againſt God and Goodneſs,</hi> that is a general Character of Sin and obſtinate Sinners, but I cann't ſee how it comes in under the <hi>Genus</hi> of Prayer; you might as well put in fight<g ref="char:EOLhyphen"/>ing a Battel, or running a Race, or wearing Cloaths, or killing a man, and a hundred ſuch heterogeneous things, and called them praying: But when men out of prejudice to any truth run into abſurdities, God leaves them to leave their own Reaſon and Underſtanding.</p>
+            </sp>
+            <sp>
+               <pb n="27" facs="tcp:134627:15"/>
+               <speaker>R. B.</speaker>
+               <p>But I ſuppoſe you mean <hi>de ſpecie,</hi> praying to God for good things needful.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>You love to play with <hi>Genus</hi> and <hi>Species;</hi> ſuch Prayer is <hi>Species</hi> in reſpect of Prayer for the <hi>Genus,</hi> but it's a <hi>Sub-alternum Ge<g ref="char:EOLhyphen"/>nus,</hi> in reſpect of the Species under it, ſuch as Natural or Inſtituted Prayers.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>And it is another miſtake, <hi>That this Prayer is not of Chriſts In<g ref="char:EOLhyphen"/>ſtitution, becauſe it is a part of Natural Worſhip:</hi> All is of Chriſts In<g ref="char:EOLhyphen"/>ſtitution which is a part of his commanding Law. The Law of Na<g ref="char:EOLhyphen"/>ture is now Chriſts Law. Error XVII.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>And was it not alwayes as much as now? <hi>As all things were made by him, and as he lightneth every man that comes into the world,</hi> by the Law of Nature, which Law was never aboliſhed, as to its uſe in the world, for Chriſts Ends; but meerly as ſuch, it was ever ſince the fall a weak and imperfect Law, as to the Salvation of the world; <hi>Rom.</hi> 8.3. <hi>It was weak through the fleſh, and life could not come by it,</hi> Gal. 2.31. Likewiſe at firſt by reaſon of the darkneſs that came in by ſin, there wanted a further and more expreſs manifeſtation of it, which was by Revelation, and in that reſpect was a revealed Law at Mount <hi>Sinai,</hi> but thereby became a more <hi>killing Letter.</hi> Two ſorts of people there<g ref="char:EOLhyphen"/>upon were in the world, thoſe that lay meerly under the <hi>light of Nature,</hi> and they that had the <hi>written Law,</hi> Rom. 2.12. Now miſerable had the condition of the world been, if Chriſt had not manifeſted himſelf in another way then meerly by the Law of Nature: He reveals him<g ref="char:EOLhyphen"/>ſelf as the <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>diator of the New Covenant, the Seed of the Woman,</hi> the <hi>great High Prieſt,</hi> and <hi>Sacrifice,</hi> yea, <hi>a Redeemer of them that were under the Law,</hi> and in the Glory and Power of this Undertaking he appears <hi>King of Saints;</hi> firſt he reveals a Worſhip made up moſtly of Types and Figures, for the ſtrengthning of the Faith of his People in the Pro<g ref="char:EOLhyphen"/>miſes of his appearing in the fleſh, when <hi>the fullneſs of time was come;</hi> wherein alſo he fits and adapts the Law of Nature to his honour, and the uſe of his people, in ſubſerviency to the promiſe; and this was the firſt Model of Inſtituted Worſhip that Chriſt ſet up in the World, and now is <hi>become Head of all things to his Church:</hi> But his peculiar Regi<g ref="char:EOLhyphen"/>ment was exerciſed there in his <hi>Mediatory Office.</hi> Afterwards when he had appeared in the fleſh, finiſhed his Miniſtry, and was offered up, the old model of Worſhip, <hi>the Law of Commandments contained in Ordinan<g ref="char:EOLhyphen"/>ces,</hi> was aboliſhed, and a new Model of Inſtituted Worſhip ſet up for Converſion of Sinners, and Edification of his Church, to continue to the End of the World; and theſe two Models, Divine, have thought
+<pb n="28" facs="tcp:134627:16"/> good to call Inſtituted and Revealed Worſhip, as diſtinct from Natu<g ref="char:EOLhyphen"/>ral. Now if you can find out a better term of Diſtinction, pray do; but the thing muſt be the ſame: Now let the world judge whether this be not <hi>perverſe diſputing,</hi> to endeavour to render ſuch a known and approved Diſtinction, abſurd and ridiculous: Moreover ſee more of this Spirit; you charge it for a miſtake, in ſaying, <hi>This Prayer is not of Christs Inſtitution;</hi> Is it ſaid <hi>this Prayer?</hi> We ſay, <hi>Prayer in general, is not Inſtituted Worſhip, but Natural;</hi> but this or that Prayer is of Chriſts Inſtitution, which is appointed to be uſed by the Church, or his people; the Prayer to be prayed by the Church when the Ark and Camp moved, and that when it reſted, was Inſtituted by Chriſt; Prayer upon particular occaſions in the Goſpel-Church, are appointed; as at the bleſſing and Conſecration of the Elements in the Supper; though not preſcribed and limited as ſome men would have them; but where Chriſt hath preſcribed and limited, we chearfully obey him.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>It is another miſtake, That Chriſts Inſtitution reſpecteth only the <hi>internal form and manner of performance;</hi> the interal form is the in<g ref="char:EOLhyphen"/>ward deſire offered <hi>mentally</hi> to God; and is not this natural, if Prayer be? Sure the form is the thing.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>It is ſo, or ſhould be ſo, if men were able to do it ſince the Fall; but the power of Nature was loſt, and was ſupplied by Grace; take it as you will, we allow it; but you ſpeak of one thing, and we of a<g ref="char:EOLhyphen"/>nother; you ſpeak of of the internal qualification of the Worſhipper, the Performer of the Inſtitution; we ſpeak of the internal form of the Inſtitution, which is the perfection and rectitude thereof, wholly ac<g ref="char:EOLhyphen"/>cording to God's mind and will, as to the ſeveral particulars that it doth concern The form is not the thing, but the form and matter.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>And that the manner of Performance is ſinful, which is not of Chriſt's inſtitution.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Theſe are not our words, but that his Inſtitution <hi>reſpects the manner of our performance;</hi> and that is, the external due manner, and the internal; the internal is the due Goſpel manner of offering our deſires mentally to God, which is not natural, but revealed, to pray in the Spirit with Faith, in and through Chriſt: Heathens may offer up deſires mentally to a Deity by the Law of Nature; but by it they cannot know God in Chriſt, nor pray aright, without his Revelati<g ref="char:EOLhyphen"/>on and Inſtitution: So for the External manner, after what manner in the Platform, and expreſly, <hi>Not with vain bablings, and repititions, as the Heathens.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>The words, and method, and length, are the manner of
+<pb n="29" facs="tcp:134627:16"/> performance; can you ſhew an Inſtitution determinative of them?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>No, nor you, neither do I deſire it; it was not that manner you mean that Chriſt determined expreſly, it's enough that he deter<g ref="char:EOLhyphen"/>mined other manners, and his Inſtitution reacheth that always in his own way, though not in mans, which thereby is excluded; for if Chriſt thought it not for his honour and the good of his Church, to make determinative Inſtitutions of ſuch things, it's great preſumption in men to undertake it.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>You ſay the Lyturgy takes on it ſelf to ſupply and determine matter. <hi>Anſw.</hi> Matter is more than manner; but this is another miſtake.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>I wonder any man will deny the Sun ſhines; doth not the Lyturgy determine the matter for every Prayer? Dare any man con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that ordinarily officiates, and change the matter from the time an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> occaſion preſcribed; what if there be Scripture Expreſſions? It pre<g ref="char:EOLunhyphen"/>ſcribes what Expreſſions ſhall be uſed in ſuch a Prayer, upon ſuch an occaſion. You ſay, <hi>Matter is more then manner;</hi> then they preſcribe more then manner. But I deny matter to be more then manner, in Goſpel-worſhip; they are both of equal weight, in reſpect of the Inſtitution.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>It is another miſtake, <hi>That thus to limit the concerns of Prayer to modes and form, is to take Chriſts work out of his hands:</hi> if ſo, you muſt ſhew where Chriſt undertook to limit us to his modes and forms only.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>He hath limited us to his Laws and Inſtitutions only; and do you ſhew us where he hath authorized any men to limit us <hi>to their modes and forms only.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Elſe it's not Chriſts proper Work: Is there a Lyturgy of his making?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>No, if there had been, we would not diſpute its Authority; But if there had been one to be made, it had been his work to do it; Law-making for his Worſhip in his Church, being his work. It's a ſign a man hath not the Truth on his ſide, when he is put to ſuch Childiſh Shifts.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Do not all Miniſters in every publick prayer take Chriſts work out of his hand?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>No, they do not, they make no Laws for others praying.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Do they not limit the people in matter?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>No otherwiſe then Chriſt hath allowed them to do, by ver<g ref="char:EOLhyphen"/>tue of his Inſtitution and Charter to his Church; all Chriſts Limitati<g ref="char:EOLhyphen"/>ons we are for; we are willing to be limited to Bread and Wine in
+<pb n="30" facs="tcp:134627:17"/> the Lords Supper, but not to the weight and meaſure every one ſhall put into his mouth; nor to the ſort of Wine, nor the faſhion of the Cups it muſt be drank in, nor to the matter they muſt be made of; and a hundred ſuch particulars.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p n="3">3. <hi>Outward Rites and Modes of Worſhip divinely inſti<g ref="char:EOLhyphen"/>tuted and determined, do become the neceſſary parts of Divine Worſhip; ſee inſtance, Levit.</hi> 1.16. <hi>Therefore ſuch as are humanely Inſtituted, ap<g ref="char:EOLhyphen"/>pointed, and determined, are thereby made parts of Worſhip, namely that which is falſe, for want of Divine Inſtitution.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Your third Reply is no better then the reſt, viz. That, <hi>be<g ref="char:EOLhyphen"/>cauſe Divine Inſtitution makes Rites and modes neceſſary, therefore humane Institution maketh ſuch Parts thereof falſe Worſhip, for want of Divine Institution.</hi> Error 21. Gods determination can make any indifferent thing a duty; and therefore doth it follow that he hath left nothing to mans determination?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>He hath left ſomething to mans; 1. Where and ſo far as he hath by Commiſſion in his word given man a Legiſlative power; but he hath given no ſuch to him in the matters of inſtituted Worſhip; let him or you ſhew mans Commiſſion. 2. Chriſt hath left many things to Chriſtian and Church determination, by the Judgement of Diſ<g ref="char:EOLhyphen"/>cretion, and ſo occaſionally, as <hi>pro hic &amp; nunc,</hi> to become a duty by vertue of his own Inſtitution: but he hath left this as their priviledge by Charter, none muſt rob them of it: And if they alter the nature of the Rule, and come to make Law Determination, and binding Rules in indifferences, they forfeit their Charter.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Gods choice of <hi>Jeruſalem</hi> for his worſhip, of the Tabernacle ſhape, of the Prieſts, <hi>&amp;c.</hi> made thoſe neceſſary, is therefore mans de<g ref="char:EOLhyphen"/>termination of the fixed places for Ordinary Worſhip, of the Form of the Temple, of ordained Miniſters, falſe worſhip?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>It was Gods choice of <hi>Jeruſalem</hi> for his worſhip, that made <hi>Jeroboams</hi> worſhip, and his determination, falſe worſhip, in that time that God had limited his worſhip to a place: But when God binds his worſhip determinatively to no place, its falſe worſhip in man to bind it to any; and ſo for man to make binding forms in any thing of his worſhip, where he hath not.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Chriſt taught his Diſciples a form of Prayer, may you not therefore teach your Children any?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>No, if Chriſt hath bound us only to teach or ſay that Prayer, then we ſhould teach or ſay no other.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>That which God hath commanded, is no falſe worſhip, but God hath commanded the Churches to determine undetermined Modes and
+<pb n="31" facs="tcp:134627:17"/> Circumſtances needful <hi>in genere;</hi> ſo all <hi>may be done to Edification, de<g ref="char:EOLhyphen"/>cently and in order.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Now here is another fallacious reaſoning; what do you mean by <hi>[determine]</hi> its one thing to determine by a <hi>Legiſlative power,</hi> and another to determine by the <hi>Rules of Diſcretion, pro hic &amp; nunc;</hi> and ſo every particular Church is to do as occaſion requires, and therefore not to be bound up by any ſtanding Rule in thoſe things, more then general, which Chriſt hath made. Other Rules binding to particulars, 1ſt. would infringe rhem of that Liberty they enjoy by Charter; 2dly Cann't poſſibly conſiſt with the Churches <hi>bene eſſe,</hi> becauſe of the mutability of ſuch occaſions and Circumſtances.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>Prayer and Praiſe are not things preſcribed and enjoyned in and by the Liturgy; It is ſo far from it, that thereby all Prayers and Praiſes in Church-Aſſem<g ref="char:EOLhyphen"/>bly, meerly as ſuch, are prohibited: But it is in its own forms, way, and mode, with their determination and limitation alone, that are instituted, perſcribed and enjoyned by it: But theſe things have no Divine Inſtitution, and therefore are ſo far falſe Worſhip.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Here are two ſtrange Miſtakes: 1. Are there ſo many Pray<g ref="char:EOLhyphen"/>ers enjoyned, and the People called on it, with a <hi>[Let us pray,]</hi> and yet is not Prayer Enjoyned? There's ſome ſecret meaning in it, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>No conjuring: VVe ſay there is no Law to command Prayer in general, but theſe particular forms and modes: and ſo for the calls to particular forms annexed, <hi>Let us pray,</hi> it intends not to leave it to your Liberty to chooſe your Prayer. If a Law be made to prohibit <hi>Eating meat in Lent,</hi> is this a Law againſt eating meat in general? Prayers are no where preſcribed as ſuch only, by the Lyturgy, but as <hi>this or that mode, words, form, and manner:</hi> And, <hi>Let us pray,</hi> is no term of Compulſion, but a form of Exhortation there preſcribed a<g ref="char:EOLhyphen"/>mong others; if it be determinative, its to the Prayer next enſuing.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>And are no Praiſes Enjoyned? Are there no Pſalms?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>VVe ſay not that there are no Prayers or Praiſes enjoyned, but not as ſuch, but as modified in this or that manner: beſides, any law<g ref="char:EOLhyphen"/>ful Prayers or Doxologies (by Chriſts Law) will not ſerve mans turn in this Caſe, he requires his own Prayer, to keep its time and Circum<g ref="char:EOLhyphen"/>ſtances exactly, without Alteration.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Your next miſreport is, That <hi>[by the Lyturgy all Prayers and Praiſes in Church Aſſemblies are prohibited.]</hi> Error 23. This can have no ſence but that either none are Church-Aſſemblies that have Lyturgies, or that nothing commanded in the Lyturgy is Prayer or Praiſes.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>All Prayer and Praiſes in Church-Aſſemblies in the time and place of Lyturgical performance, are prohibited, except what is there preſcribed; this is a known Truth.</p>
+            </sp>
+            <sp>
+               <pb n="32" facs="tcp:134627:18"/>
+               <speaker>R. B.</speaker>
+               <p>Is there no Church on Earth out of <hi>England?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>There is; but all out of <hi>England,</hi> or in <hi>England,</hi> don't wor<g ref="char:EOLhyphen"/>ſhip by Lyturgies.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Or do they forbid any out of <hi>England,</hi> to pray and praiſe God?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>No; to what purpoſe is it to forbid further then their power reaches.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Do they forbid the <hi>Dutch</hi> and <hi>French</hi> in <hi>England</hi> to pray and praiſe God?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>No; the Law allows Forreigners the Free Exerciſe of their Religion in their own way.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Do they forbid all Prayer in Pulpits?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>That which is, is by the limiting Law, and muſt be no other then what the Law of man determines.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Have you proved all the Pariſh-Churches in <hi>England</hi> to be no Churches?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>As much as you have proved all the Dioceſſes in <hi>England</hi> to be no Churches.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Have you proved that commanding men to pray in ſuch words, is forbidding them to pray?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Enjoyning men to pray in ſuch words by a Law, is forbidding them to pray in any other.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>Arg. 1. <hi>That which was in its firſt contrivance, and hath been in its con<g ref="char:EOLhyphen"/>tinuance, an Invention and Engine to defeat or render uſeleſs the promiſe of Chriſt un<g ref="char:EOLhyphen"/>to his Church, of ſending the holy Spirit in all Ages. to Enable it to the due diſcharge and performance of Divine Worſhip in its Aſſemblies, is unlawful to be complyed withal, nor can be admitted in Religious Worſhip; But ſuch is Lyturgical Worſhip. That the Lord Chriſt did make ſuch a promiſe, that he doth make it good, that the very being and con<g ref="char:EOLhyphen"/>tinuance of the Church (without which it is but a dead Machine) doth depend thereon, will not be denyed; it hath been andeniably proved.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>I anſwer to your Minor, Do you mean that this was the intent of the Contrivers and Continuers? Or only that it is the Effect, con<g ref="char:EOLhyphen"/>trary to their intent? The firſt ſeemeth your intent; that's Error 24. for, firſt, you know not the firſt Inventers, and who all the Con<g ref="char:EOLhyphen"/>tinuers, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We ſpeak of the contrivance and continuance; but if you muſt have the firſt Contriver, it was that Spirit that acted the falſe Prophets in <hi>John's</hi> days, 1 <hi>John</hi> 4. and that he with ſuch Agents have been the main Continuers thereof ever ſince.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Are you ſure you lay not this Charge of Malignity on the men of God that made the <hi>Jews</hi> Pſalms?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We are ſure we do not; we blame nothing done by the in<g ref="char:EOLhyphen"/>ſpiration
+<pb n="33" facs="tcp:134627:18"/> of the Holy Ghoſts. But by the <hi>Jews Pſalms,</hi> we know not what you mean; it may be their Lyturgy, in which are Fopperies e<g ref="char:EOLhyphen"/>nough to be Exploded, and like that you plead for.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>That which is impoſed with an evil intent, may be uſed to a good one.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>God never required any thing (with an Evil intent) of his Church, neither doth he allow his Church to yeild Active Obedience to any that impoſe matters in his Worſhip with an ill intent; for both the <hi>Impoſition</hi> and <hi>Intent</hi> are Sin; and we muſt not do evil for the ac<g ref="char:EOLhyphen"/>compliſhment of a good intent; beſides, that is good which God judg<g ref="char:EOLhyphen"/>eth ſo; our Intent makes not an Evil thing good. Your 25th charge of Error comes in upon the Popes ſhoulders, and there we leave it.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>Hereon the Church lived and acted for ſeveral Ages, performing all Di<g ref="char:EOLhyphen"/>vine Worſhip in their Aſſemblies, by vertue of the Gifts and Graces of the holy Spi<g ref="char:EOLhyphen"/>rit, and no otherwiſe. When theſe things were neglected, when the way of attaining, and the Exerciſe of them, appeared too difficult to men of carnal minds, this way of Worſhip by a preſcribed Lyturgy, was inſenſibly brought in, to render the promiſe of Chriſt, and the work of the holy Ghoſt in the administration of Gifts, uſeleſs: And herein two things do follow.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>It is a great Error to think that the gifts and graces of the Spirit may not be Exerciſed, if we uſe the ſame words, or if they be preſcribed.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We do not ſay ſo here, and therefore I find you do not mark it for one upon us.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>If you had put all the Errors of this Writing into a Prayer or Sermon, you had had need of more help of the Spirit to have avoi<g ref="char:EOLhyphen"/>ded it.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Take heed of Scoffing at the help of the Spirit. If I ſhould have put them in a Prayer or Sermon, and impoſed the uſe thereof upon you, it had been unkind, and hard meaſure. I ſuppoſe as to the number of the Errors, they will not prove to amount ſo high as you make, in the judgment of judicious and impartial men; I wiſh you had never had more in leſs room.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>May not a man uſe the Lords Prayer by the Spirits help, and ſing Pſalms?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>All things that Chriſt commands have the promiſe of the Spi<g ref="char:EOLhyphen"/>rits help to accompany them that wait for it in a due and faithful ex<g ref="char:EOLhyphen"/>erciſe of Obedience thereto.</p>
+            </sp>
+            <sp>
+               <speaker>R. B:</speaker>
+               <p>But you come to Hiſtory, and add another miſ-report in the Words <hi>[and no otherwiſe]</hi> and mean that by ſuch gifts the Church Ex<g ref="char:EOLhyphen"/>cluded Lyturgical forms.</p>
+            </sp>
+            <sp>
+               <pb n="34" facs="tcp:134627:19"/>
+               <speaker>J. O.</speaker>
+               <p>We ſay that the Church performed all Divine Worſhip [<hi>i. e.</hi> acceptably] by vertue of the gifts and graces of the Spirit, in all A<g ref="char:EOLhyphen"/>ges, and no otherwiſe. Tell us of another way to perform Divine Worſhip; we exclude no Worſhip ſo performed.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>It's too true that the careleſneſs, ſloth, and worldly Aliena<g ref="char:EOLunhyphen"/>tions of Miniſters, made all uſeful Sufficiency for the work of the Mi<g ref="char:EOLhyphen"/>niſtry, in praying and preaching, to be neglected, and doth to this Day.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>And this was the deſign of the firſt contrivance, and after-continuance of Lyturgical Worſhip: Here we agree well enough.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p n="1">1. <hi>A total neglect of all Gifts of the Holy Ghoſt in the Adminiſtration of Church-Worſhip and Ordinances.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>The firſt Conſequence is an untruth; no doubt but Lyturgies were abuſed to cheriſh Ignorance and Negligence: But that the neg<g ref="char:EOLhyphen"/>lect was total, is not true; whether you reſpect all the Churches, or all the parts of Worſhip and Ordinances.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We ſay it hath been abuſed to a <hi>total</hi> neglect by many you call Churches and Ordinances; it would be ſad if it ſhould be in all Chur<g ref="char:EOLhyphen"/>ches and Ordinances; but a <hi>total</hi> in <hi>not a few,</hi> is ſufficiently known. We apply not <hi>total</hi> to the univerſal Church, but to ſome Churches on<g ref="char:EOLhyphen"/>ly; neither hath the Univerſal Church in all Ages ſerved God by Ly<g ref="char:EOLhyphen"/>turgies, nor in any one, I believe.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p n="2">2. <hi>When a Plea for the work of the Holy Ghoſt began to be revived, it produced all the Enmity, Hatred and contempt of, and againſt the Spirit of God himſelf, and his whole work in the Church, which the whole world is now filled withal.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>That word <hi>[his whole work in the Church]</hi> is another miſ-re<g ref="char:EOLhyphen"/>port; it is not <hi>[his whole Work]</hi> that is ſo contemned: Error 28.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>The whole work of Chriſt in his Church, is by his Inſtitutions and the gifts and graces of his holy Spirit; and if theſe be hated and contemned, his whole work is hated and contemned.</p>
+            </sp>
+            <sp>
+               <speaker>R. B</speaker>
+               <p>And its a palpable miſtake, that the foreſaid ſcorn of all done by the Spirit, [ariſeth from hence alone] <hi>a juſtification of their devi<g ref="char:EOLhyphen"/>ſed way of Worſhip;</hi> it ariſeth more from a malignant Enmity to ſerious Godlineſs, <hi>&amp;c.</hi> Error 29.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>But what hath cauſed that in the caſe mentioned? Hath not a juſtification of their deviſed Worſhip: <hi>Cauſa cauſae est cauſa cauſati.</hi> When we ſay the only Cauſe, we mean the principal firſt moving cau<g ref="char:EOLhyphen"/>ſer, <hi>cauſa procreans,</hi> its here.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>All the reproaches that are daily caſt on the Spirit of Prayer, all the contempt and ſcorn which all Duties of Religious Worship performed by his Aid and Aſſiſtance, are entertained withal, ariſeth from hence alone, namely a juſtification of their deviſed way of Worship, as the only true way and means thereof. Take this
+<pb n="35" facs="tcp:134627:19"/> away, and the wrath and anger of men againſt the Spirit of God, and his work in the Worship of the Church, will be abated: yea the neceſſity of them will be Evident. This me cann't comply with, leaſt we approve of the Original deſign of it, and partake in the ſins which proceed from it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>You charge no Error here, do you?</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>No, but ſeeing you and your dividing Separatiſts are bran<g ref="char:EOLhyphen"/>ded with <hi>D. S.</hi> now my Irons are hot, I'll add <hi>R.</hi> too, the firſt Let<g ref="char:EOLhyphen"/>ter of my own Name.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>I will tell you a ſtory how the Separatiſts were the Cauſes of all the Miſchiefs in the late Mutations. — And amongſt the reſt you know <hi>Oliver</hi> comes to be made Protector, the Fundamental Laws made among themſelves by we know not whom; Parliament Lords made by him; Parliaments called and broken at his pleaſure; the Go<g ref="char:EOLhyphen"/>vernment of the Counties put into the hands of Major Generals: Af<g ref="char:EOLhyphen"/>ter the Death of <hi>Oliver</hi> his Son ſet up, and his Parliament firſt pull'd down, (in which you told me you were an Agent) and next himſelf.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Let all this be granted, it amounts to no more then this, That I was an Agent in pulling down a Uſurper: I pray where lies the moſt Loyalty, in being an Agent to aid and aſſiſt, and maintain ſuch a one; or to contribute towards the pulling him down? I know you were migh<g ref="char:EOLhyphen"/>tily diſpleaſed with me and the Army for it; and I remember a remark<g ref="char:EOLhyphen"/>able paſſage in your Epiſtle to them, in the Preface of your Holy Com<g ref="char:EOLhyphen"/>mon-wealth, where you ſay, <hi>For my part, you ſee the worſt that I deſig<g ref="char:EOLhyphen"/>ned by this Book, which was written while the</hi> LORD PROTECTOR <hi>(prudently, piouſly, faithfully, to his Immortal Honour, how ill ſoever you have uſed him) did Exerciſe the Government.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Ay, but this you could not be contented with, to pull down the Protector, but you muſt break the Army in pieces. You were once Paſtor to the Officers of the Army, when they pull'd down and ſet up, and again pull'd down, till they had turned the Army Bulwarks into Atoms. And when you ſaw what they had done, ſaid, <hi>[I wonder the People do not cast stones at us as we go along the Streets]</hi> was not this a blaming of the flock?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Very Good, Sir, and was there any diſloyalty in all this? If all the ſimple things that we have ſaid muſt be told, and that you have writ, I could tell tales too, but there is ſo much Printed of it, that I need not fill pages with it, and I muſt tell you, it's that which is now much worſe reſented by the World, then any thing you can report of me; but I ſeek not Revenge, though I could give you heap meaſure in theſe matters. But if your hand be in at it once more, you ſhall be ſure to have that which you deſerve in ſuch caſes; <hi>That which is Sauce for
+<pb n="36" facs="tcp:134627:20"/> a Gooſe, is ſo for a Gander alſo.</hi> I ſhall only add one thing, that where<g ref="char:EOLhyphen"/>as you charge Separatiſts, as you call them for the great Dividers in this Land; Let me tell you, there was never an hundred of Separatiſts this Hundred years living together, that have made more dangerous diviſions in matters of Religion, both in Doctrine and Diſcipline, then you have done: And with ſuch Errors that it may be the Church had hardly ſeen, or at leaſt been vexed with at this day, had you not ſpaw<g ref="char:EOLhyphen"/>ned them into her Boſom, and given Credit and Life by your Autho<g ref="char:EOLhyphen"/>rity to ſome Old and Exploded Ones by moſt Proteſtants.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>Argument 3. <hi>That in Religious Worſhip which derogates from the King<g ref="char:EOLhyphen"/>ly Office of Jeſus Chriſt, ſo far as it doth is falſe Worſhip. <g ref="char:V">Ʋ</g>nto the Office of Christ it inſeparably belongs that he is the Sole Lawgiver of his Church in all the Worſhip of God. The Rule of his Government herein is, Teach men to do all, and obſerve whate<g ref="char:EOLhyphen"/>ver I Command.</hi>
+               </p>
+               <p>
+                  <hi>But the Worſhip treated about, conſiſts wholly in the Inſtitutions, Commands, Pre<g ref="char:EOLhyphen"/>ſcriptions, Orders and Rules of men, and on the Authority of me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> alone doth their Impo<g ref="char:EOLhyphen"/>ſitions on the practice of the Church depend. What is this but to Renounce the King<g ref="char:EOLhyphen"/>ly Office of Chriſt in the Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>To your Major of your Third Argument, I anſwer: Firſt, there is that in Worſhip, as the badneſs of men, <hi>&amp;c.</hi> which is no part of Worſhip, and therefore no falſe Worſhip.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>This is the Old <hi>Crambe ter Coctum, tollere Subjectum,</hi> and let the <hi>Predicatum</hi> go whiſtle, we will draw out this kind of Argument at length, and ſend it to the boys at <hi>Oxford,</hi> to courſe with. <hi>That in Re<g ref="char:EOLhyphen"/>ligious Worſhip which is no part of Worſhip, is no falſe Worſhip; But there is that in Religious Worſhip (as the badneſs of men) which is no part of Worſhip:</hi> Ergo <hi>there is that in Worſhip, which is no falſe Worſhip.</hi>
+               </p>
+               <p>And now you have proved that no Worſhip is no falſe Worſhip: but let me tell you, (ſeeing you are ſo upon the Carp) a man of Clouts, a Picture, a Statue, is called a falſe man; any counterfeit thing, is called a falſe thing: falſe Worſhip in the Scripture ſtrict ſence, is called no Worſhip, becauſe it's no true Worſhip, ſignifyeth nothing, is not accepted of God, nor profiteth us. But as to your retorted Argu<g ref="char:EOLhyphen"/>ment, to deſtroy our Subject or Antecedent, it runs after this manner; There is that in a Houſe which is no Houſe, as a Cat, Dog, Pig, <hi>&amp;c.</hi> and therefore no falſe Houſe. Who goes about to ſay, A Cat is a falſe Houſe, or that Sin is part of Gods Worſhip? but quite contrary; nei<g ref="char:EOLhyphen"/>ther doth any body ſay, Sin is in Worſhip as an integral part in the <hi>To<g ref="char:EOLhyphen"/>tum</hi> or <hi>Species</hi> in <hi>Genere:</hi> it's often ſaid our performances are accompa<g ref="char:EOLhyphen"/>nied with Sin, but no Sin is a part of a Religious performance as ſuch. Beſides, we often tell you when we ſpeak of Worſhip here, we mean the Rule of Worſhip, which ought to be unerring, and ſo we will put it,
+<pb n="37" facs="tcp:134627:20"/> though that's evident to be our meaning to any man that is not con<g ref="char:EOLhyphen"/>tentious, That Rule of Religious Worſhip which derogates, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>True Worſhip materially may be ſo abuſed as to derogate from the Kingly Office of Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>All ſin derogates from the Kingly Office of Chriſt, but Chriſts Rule in its ſelf cannot be made ſinful materially nor formally, mens Actions may; And therefore if you will have that to be the ſence of the Major, it's true by your own conceſſion, and there can be nothing in Worſhip that derogates but Sin; but you know all men mean by that in Worſhip, that which men account and call Worſhip, as the Traditions of men, <hi>&amp;c.</hi> which our Saviour blames for falſe Worſhip.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>That it belongs to this Office of Chriſt to be the Sole Law-giver in all the Worſhip of God, is Error 30.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>This is one of the boldeſt Aſſertions that ever Proteſtant Di<g ref="char:EOLhyphen"/>vine made. You ſay in your diſpute about a Stinted Liturgy, page 360. <hi>That God being the Supream Law-giver of the Church, having by</hi> Moſes <hi>given a Law in</hi> Iſrael, <hi>did in general command,</hi> Deut. 12.32. <hi>That they ſhould add nothing thereto, nor take therefrom; and conſequently we may conclude it prohibited under the Goſpel; nay indeed the very prohibi<g ref="char:EOLhyphen"/>tion of Self-Idolizing makes it a Sin, for any man to arrogate that Le<g ref="char:EOLhyphen"/>giſlation, which is the Prerogative of God, for that were to Deify himſelf, and ſo this general prohibition doth make all <g ref="char:V">Ʋ</g>nwarrantable Additions to be ſinful,</hi> i. e. <hi>which God hath not Authorized men to make.</hi>
+               </p>
+               <p>Your following mincing this great Truth, is as here; for we ſay, gene<g ref="char:EOLhyphen"/>ral Rules of walking in the uſe of indifferent things, are no Rule for man, or Authority for him to limit them by a binding Law in matters of Religion, but on the contrary a prohibition of it. For walking at liberty in the uſe of thoſe things under the general Rules, are Church<g ref="char:EOLhyphen"/>es and Chriſtians Priviledges; none can rob them of them, nay, they themſelves cannot alter their Nature, to make that neceſſary in Chriſts Worſhip, which Chriſt hath made indifferent, no more then they can make that indifferent which he made neceſſary. And therefore I round<g ref="char:EOLhyphen"/>ly aſſert againſt you; <hi>That though every Church of Chriſt hath the liber<g ref="char:EOLhyphen"/>ty and priviledg to act prudentially, or make prudential determinations con<g ref="char:EOLhyphen"/>cerning the preſent uſe of indifferent things,</hi> pro hic &amp; nunc, <hi>yet to make any ſtanding or binding Determinations and Laws for themſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lves or others, is altogether unlawful, as highly derogatory to the Kingly Office of Christ, and robbing themſelves or others of their granted priviledge, and ſo a for<g ref="char:EOLhyphen"/>feiture of their Charter;</hi> and all your by-ſtanding Laws, and Subordi<g ref="char:EOLhyphen"/>nate Laws for Worſhip which you talk of, are unwarrantable additions
+<pb n="38" facs="tcp:134627:21"/> to the Word of God, according to your own poſition, unleſs you ſhew better Commiſſion for enjoyning Liturgies and Forms of Worſhip by Laws Eccleſiaſtical or Civil, then you have done there in your Diſpute, or here.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Princes may make Laws for Tranſlations of Scripture.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We utterly deny that a Prince may impoſe upon his Subjects what Tranſlations he pleaſeth; it's true, he may Recommend what he thinks beſt, and ſo may any Chriſtian; and beſides, is a Tranſlation a part of the Worſhip of God? even as much as the Printed Letter and the paper of the Bible, and as much as the Pulpit and the Parſons Gown and Caſſock, a part of his Prayers and Sermons; and ſo for your time, place, utenſils, that you would have ſome Seducers reſtrained in; they muſt all be ſo, that you are pleaſed in <hi>Cathedra</hi> to call ſo.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>
+                  <hi>Mat.</hi> 28.20. by ſaying <hi>Whatever I command you,</hi> doth not ſay, Do nothing which your Parents, Prince Maſter, Paſtor commands you: <hi>Heb.</hi> 13. <hi>Obey them that have the Rule over you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>That is, in the Lord; Chriſt hath Commanded Obedience to all the lawful commands of theſe, but he hath not given them a Legi<g ref="char:EOLhyphen"/>ſlative Power in his Church, that's his own Prerogative; let any of them, or you for them, ſhew their Commiſſions for this if they can.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>It is another miſtake, Error 31. That the Worſhip treated a<g ref="char:EOLhyphen"/>bout, conſiſteth wholly in the Commands of men: The Worſhip con<g ref="char:EOLhyphen"/>taineth, Firſt, General Praying, Preaching.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We have ſhewed that theſe are not commanded in general, but as to the kind and matter limited, modification, <hi>&amp;c.</hi> it's the man<g ref="char:EOLhyphen"/>ner as to Circumſtances, Words, Sentences, kind of matter, that is li<g ref="char:EOLhyphen"/>mited, preſcribed and commanded.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Secondly, It containeth for the matter ſignifyed, Confeſſion of Sins of Omiſſion and Commiſſion.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We except not againſt any thing that is in Worſhip, that is the will of Chriſt that it ſhould be there. But let man let Chriſts In<g ref="char:EOLhyphen"/>ſtitutions alone, and not caſt them into his Mould; a good Iron Pot may be melted down into a Cannon Bullet, and become quite another thing, an Inſtrument of deſtruction, and yet the matter is the ſame.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>It is alſo a miſtake, Error 32. that on the Authority of men alone doth the Impoſition on the practice of the Church depend, for firſt the aforeſaid are Impoſed by God himſelf.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>They will never ſerve God well, that look upon themſelves to be Impoſed upon by him, neither are Gods Laws called an Impoſition; impoſition is uſually taken but in theſe two ſences; firſt when a blind
+<pb n="39" facs="tcp:134627:21"/> and deluſion is put on my Underſtanding, that I take that to be truth which is not; or ſecondly, upon our Actions contrary to our Will, and it may be our Underſtanding and Will both are inforced by Laws or Pow<g ref="char:EOLhyphen"/>er to do that we otherwiſe would not.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Lawful Modes impoſed by men, depend not on their Autho<g ref="char:EOLhyphen"/>rity alone, but on Gods who Au<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>horizeth the Ruler.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Therefore he is to Command only in his own Province, where by God the Judge of all he is limited; a Juſtice of Peace's Authority reacheth no further then his Commiſſion gives him leave to go. They have no power to impoſe l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wful modes, things lawfully uſed are to be indifferently uſed in the Worſhip of God; what he thinks is neceſſary to be made a binding Law, he hath made ſo; or elſe he is deficient in his houſe.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Your Concluſion is a Miſtake, Error 33.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>That it muſt needs be, if the premiſes were ſo full of Errors; but we have vindicated them, ſo the Concluſion is true.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>Argument 4. <hi>That which gives Testimony againſt the Faithfulneſs of Chriſt in his houſe, as a Son and Lord of it, above that of a Servant, is not to be com<g ref="char:EOLhyphen"/>plyed withal, let all the Diſciples judge.</hi>
+               </p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nto the Faithfulneſs of Chriſt doth belong to appoint and command all things what<g ref="char:EOLhyphen"/>ſoever in the Church, that belongs to the Worship of God, as is Evident from the Com<g ref="char:EOLhyphen"/>pariſon with</hi> Moſes <hi>herein, and his Preference above him,</hi> Heb. 3.3, 4, 5, 6. <hi>But that Inſtitution and Preſcription of all things in Religious Worship, of things never Inſtitu<g ref="char:EOLhyphen"/>ted nor preſcribed by Chriſt in form and modes of them, ariſeth from a Suppoſition of a defect in the Wiſdom, Care and Faithfulneſs of Chriſt; Whence alone a Neceſſity can ariſe of Preſcribing that in Divine Worship that he hath not Preſcribed.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p n="1">1st. To your Major I anſwer, 1. To give Teſtimony, Signify<g ref="char:EOLhyphen"/>eth either by remote unſeen Conſequence to croſs Chriſts Faithfulneſs, and ſo do many of your Miſtakes: 2. Or it ſignifieth a plain Denyal of Chriſts Faithfulneſs, no Chriſtian complyeth with this.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>By a remote unſeen Conſequence you have anſwered the Ma<g ref="char:EOLhyphen"/>jor, for no man can ſee any Anſwer in it worth a Button. To give Teſtimony againſt the Faithfulneſs of Chriſt is by making or Comply<g ref="char:EOLhyphen"/>ing with Laws neceſſary for the Churches <hi>Eſſe, or bene eſſe,</hi> which he hath not made, and it charges him for not doing what he ought to do as the Lord of his houſe; and that which a man bears Teſtimony to by open Profeſſion in Words or Practice, is not to croſs Chriſts Faithfulneſs by a remote unſeen Conſequence; men do not uſe to bear Teſtimonies in the dark. Our meanig is, mens plain Denyal in Practice, and it may be an open mouth Vindication of themſelves, and Condemnation of others added, as you do. This we roundly affirm to be a Teſtimony born againſt the Faithfulneſs of Chriſt, and in this meaning you grant our Major.</p>
+            </sp>
+            <sp>
+               <pb n="40" facs="tcp:134627:22"/>
+               <speaker>R B.</speaker>
+               <p>To your Minor, I anſwer, In your Suppoſition it is not true, <hi>That it belongeth to Chriſts Faithfulneſs to appoint and command all things whatever in the Church, which belongs to the Worſhip of God.</hi> Elſe he were unfaithful in bidding them appoint many things belonging to his Worſhip. Error 34.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Here is another bold Attempt againſt Chriſt, if it were not contradicted in the ſame breath, for if he hath bid them appoint and make Laws, then he did it in faithfulneſs, and it belongs ſtill to his faithfulneſs to give them a faithful Commiſſion, ſo as might not turn to the certain manifeſt wrong and injury of his Church, as the exer<g ref="char:EOLhyphen"/>ting ſuch a power hath done; but tell us the <hi>
+                     <g ref="char:V">Ʋ</g>bi</hi> of thoſe Laws and biddings to men in the preſent ſence, and the Controverſy is at an end.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>It is another Error, That the preſcription of forms and modes of things in Worſhip not commanded by Chriſt, can ariſe from nothing but a Suppoſition of a defect in the Wiſdom, Care and Faith<g ref="char:EOLhyphen"/>fulneſs of Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>I prove it; either it's ſo, or all that is done in that kind is ſu<g ref="char:EOLhyphen"/>perfluous. For if there were Laws enough <hi>ad eſſe &amp; bene eſſe Eccleſiae,</hi> it's folly and madneſs to make more; that which you inſtance in forms of Catechiſing, Confeſſions or Forms of Prayer for Children, <hi>&amp;c.</hi> they are nothing to the purpoſe, they may be of uſe in their place for ſome means of inſtruction to the Ignorant, as perſons and caſes re<g ref="char:EOLhyphen"/>quire. But we ſpeak of forms and Syſtems of Worſhip impoſed and bound on upon our ſhoulders at mans pleaſure; this we aſſert muſt be upon a Suppoſal <hi>of the defect of Chriſts</hi> Law, or be done in manifeſt oppoſition to it, to thruſt it out, or be a profeſſed folly to make Laws were we declare there is no need of them.</p>
+               <p>Your Refutation in the three particulars are idle or falſe, not worth our pains to take notice of.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>Argument 5. <hi>That which is a means humanely Invented for the attain<g ref="char:EOLhyphen"/>ing of an End in Divine Worship, which Chriſt hath Ordained a means for, unto the Excluſion of the means ſo appointed by Chriſt, is falſe Worship, and not to be comply<g ref="char:EOLhyphen"/>ed withal.</hi>
+               </p>
+               <p>
+                  <hi>The end intended is the Edification of the Church in the Adminiſtration of all its ho<g ref="char:EOLhyphen"/>ly Ordinances; This the Service Book is Ordained and appointed by men for, or it hath no end or uſe at all; But the Lord Chriſt hath appointed other means for the attaining this End (as is Expreſly declared.) He hath given gifts unto men for the work of the Min ſtry, for the edifying of the Body,</hi> Epheſ. 4.7, 8, 11, 12. <hi>that is, in all Goſpel Adminiſtrations; but this means Ordained by Chriſt, namely the Exerciſe of Spiritual Gifts in Goſpel Adminiſtrations unto the Edification of the Church, is Ex<g ref="char:EOLhyphen"/>cluded, yea expreſly prohibited in the preſcription of this Liturgical Worship.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="41" facs="tcp:134627:22"/>
+               <speaker>R. B.</speaker>
+               <p>To the major of your fifth Argument, I anſwer as to the for<g ref="char:EOLhyphen"/>mer, no man is to comply by approbation with any thing that exclu<g ref="char:EOLhyphen"/>deth any of Gods means; <hi>E. gr.</hi> not with you that exclude the great duty of <hi>Catholick Communion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Then you grant the maior, but inſinuate a diſtinction, or keep a hole rather, to creep out at: There is (ſay you) compliance by <hi>Ap<g ref="char:EOLhyphen"/>probation,</hi> and compliance without, and that is by <hi>Compulſion:</hi> When men comply with a Worſhip, they ſubmit to the Rule as the mind and will of God, not as to a faulty and Erroneous Rule: You are ſtill upon your old ſhift, a ſhort turn <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd a leap; putting the Errors of Perfor<g ref="char:EOLhyphen"/>mances, inſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad of the Errors of the Rule. It's a falſe accuſation to ſay, that I did ever exclude Catholick Communion: <hi>But if I ſhould pleaſe men, I ſhould not be the Servant of Jeſus Chriſt; but it is a very ſmall thing with me, that I ſhould be judged of you, or of mans judgment,</hi> 1 Cor. 4.3. <hi>He that judgeth me is the Lord,</hi> verſe 4. Only this I ſhall ſay, I will not go to the Church of <hi>Rome</hi> for Catholick Communion; nor betray the Lord of the Vineyard, that I may eat of the fruit thereof.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>It is another miſtake that the exerciſe of Spiritual Gifts is ex<g ref="char:EOLhyphen"/>preſly forbidden; except you meant <hi>juſt at the uſe of the Liturgy,</hi> extem<g ref="char:EOLhyphen"/>porate utterance is forbidden; but it is not ſo in the Pulpit, Error 36</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We mean that there is an actual Excluſion of the Exerciſe of Spiritual Gifts in the whole Lyturgical Worſhip, both in praying, or any thing elſe; it's all preſcribed.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>The pretence of mens liberty to uſe their Gifts in Prayer before Sermon, and in Preaching, is ridiculous; they are excluded in all their Solemn Worſhip.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>This Anſwer is not only a miſtake, but of an ill aſpect on your ſelf. It's not true <hi>[That the uſe of Gifts is excluded in all the Solemn Worſhip of the Church]</hi> As if Prayer, Praiſe, Thanksgiving, Confeſ<g ref="char:EOLhyphen"/>ſion, Explication of the Scripture, Reproof, Benediction, <hi>&amp;c.</hi> Error 37.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>I admire at your boldneſs in theſe things: what Gifts of the Spirit are uſed for Edification of the the Church in all the Service of the Church? Is it Reading, and an Audible Voice? There can be no o<g ref="char:EOLhyphen"/>ther: Are theſe all that Chriſt gave to men for Edification, when he aſ<g ref="char:EOLhyphen"/>cended on high?</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Indeed ſome Super-Conformiſts have ſaid ſo, but I hoped you would not.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Whatever <hi>Super Conformiſts</hi> and <hi>Half-Conformiſts</hi> ſay, the truth is truth: Do you think the meaning of the Apoſtle is, when he ſaith, Chriſt gave Gifts to men, <hi>that he gave Liturgies to them,</hi> with preſcribed forms of Prayer, Praiſes, Confeſſions, Benedictions, <hi>&amp;c.</hi> If that be the meaning, produce Chriſts Liturgy that he dropt down from heaven with theſe gifts in it, and we ſhall with all Alacrity yield to that way of worſhip; but ſee you bring good evidence for it.</p>
+            </sp>
+            <sp>
+               <pb n="42" facs="tcp:134627:23"/>
+               <speaker>R. B.</speaker>
+               <p n="2">2. It hath an ill aſpect; if that Preaching and Pulpit Praying be none of the Solemn Worſhip of the Churches, then all Churches that have not Liturgies, have no Solemn Worſhip at all.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>
+                  <hi>Non ſequitur;</hi> we ſay Pulpit-Praying is not any of the Ser<g ref="char:EOLhyphen"/>vice-Book Church Solemn Worſhip; they are in that reſpect called the Prayers of the Church; and if the Liturgy makes them none of its Solemn Worſhip; doth it follow that they are not ſo, or that other Churches doth not make them ſo?</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>If it be otherwiſe, Pariſh-Churches excel you, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We envy them not; we deſire to excel in following Chriſt, and walking according to his Rule; we compare our ſelves no otherwiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>Arg. 6. <hi>That which hath been and is obſtructive of the Edification of the Church, if it be in Religious Worſhip, it is a falſe Worſhip; for the end of all true Worſhip is Edification: But ſuch hath been and is the Liturgical Worſhip.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>This is but the former repeated.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>It is falſe, it hath another Medium; The Medium of the fifth Argument, was, <hi>A means humanely invented to exclude Chriſts means, for the attaining his end,</hi> viz. Edification: This Medium is, <hi>The bring<g ref="char:EOLhyphen"/>ing that which is obſtructive,</hi> (i. e. <hi>apparently oppoſite) and contrary to all pretences of Edification.</hi> But the Major you grant.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>To your Minor, 1. Such is all your Errors, all the diſorder, ill reflexions, ſlovenly expreſſions, which any weak Miniſter uſeth, and the faults that all men have in ſome degree.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>And that few go beyond you in; inſtead of Reflexions, you uſe Fractions by your Magiſterial Club; and of ſlovenly reviling Ex<g ref="char:EOLhyphen"/>preſſions, if they be not ſlovenly, they are as dirty as I have met with from a Miniſter of your Reputation; but for your way of arguing, the moſt illogical, fallacious, and full of pedantick Carping that ever was: And all men that oppoſe you in your confidently aſſerted Errors, muſt be ſtigmatiz'd with all reproachful names imginable; If they be not for Juſtification by works, then they are Antinomians; if they be not for your Pye-bald Conformity, then they are on one ſide <hi>Super Confor<g ref="char:EOLhyphen"/>miſts,</hi> and on the other <hi>Dividing Separatiſts;</hi> and muſt have a ſentence paſſed upon their Perſons and Learning, as Unſtudied Divines, Facti<g ref="char:EOLhyphen"/>ous, Schiſmatical, Erroneous; and this is all to promote love and Ca<g ref="char:EOLhyphen"/>tholick Communion in the World. Muſt you be the <hi>Infallible Dictator in all matters of Religion?</hi> Is there no men living that have <hi>Reaſon, Lo<g ref="char:EOLhyphen"/>gick, Theology,</hi> but your ſelf? Are all the Divines and Schollars in <hi>En<g ref="char:EOLhyphen"/>gland</hi> a company of pitiful Muſhrooms, to be treated ſo rudely by you, if they dance not after your Pipe? Yea, it's a ſufficient Refutation of any Book, if Mr. <hi>Baxter</hi> tells the world it's a dangerous and Erroneous Book; and why? becauſe it refutes his Errors. And whereas you ſay, You have anſwered Mr. <hi>Ralphſon,</hi> and ſlight Mr. <hi>Warner,</hi> Dr. <hi>Sherlock,
+<pb n="43" facs="tcp:134627:23"/> &amp;c.</hi> Conformiſts and Nonconformiſts; it's neither your Principles nor way of Argument will refute either of them; for it muſt be the Word of God, and ſound Arguments from it, muſt take place with men of Conſcience and Reaſon, in theſe mattters; not little ſhifting trifling Sophiſms, calling men Names, condemning them for Unlearned and Unſtudied Divines, confounding clear words and truths with an hun<g ref="char:EOLhyphen"/>dred particulars, diviſions, diſtinctions, nothings, till they are come to nothing; calling Truth Error, and Error Truth; this is not the way to <hi>Peace</hi> nor <hi>Truth:</hi> You are never like to die under the reputati<g ref="char:EOLhyphen"/>on <hi>of the Repairer of our breaches, and the Reſtorer of our paths to dwell in,</hi> unleſs you take another courſe for it, then yet you have done.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>
+                  <hi>It puts an utter stop to the progreſs of Reformation in this Nation, fixing bounds unto it, that it could never paſs.</hi> 2. <hi>It hath kept Multitudes in ig<g ref="char:EOLhyphen"/>norance,</hi> &amp;c. 3. <hi>It hath countenanced and encouraged many in reviling and reproach<g ref="char:EOLhyphen"/>ing the holy Spirit, and his work.</hi> 4. <hi>It hath ſet up and warranted an <g ref="char:V">Ʋ</g>ngifted Mi<g ref="char:EOLhyphen"/>niſtry.</hi> 5. <hi>It hath made great deſolations in the Church: firſt, In the ſilencing of painful Miniſters: Secondly, In the ruine of Families innumerable: Thirdly, In the deſtruction of Souls. It is not lawful to be participant in theſe things; yea, the glo<g ref="char:EOLhyphen"/>ry of our Profeſſion lies in our Teſtimony againſt them.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Well, what ſay you to theſe things? Are they Truth, or no?</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>I charge no Error here.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Truly the Church is much beholden to ſuch a Champion.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>But I have ſomething to ſay to your Reaſons.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Nay, but I have nothing to ſay to you further in theſe parti<g ref="char:EOLhyphen"/>culars, if you have no Error to charge them with: I will leave them to defend themſelves againſt others.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>Arg. 7. <hi>That practice whereby we condemn the ſuffering Saints of the preſent Age, rendring them falſe Witneſſes of God, and the only blameable Cauſe of their own Sufferings, is not to be approved; but ſuch is this Practice; and where this is done on a pretence of Liberty, without any Plea of neceſſary duty on our parts, it is utterly unlawful.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>The Major meaneth either Saints that ſuffer for well doing, or ill-doing.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>It doth ſo, one of them beſure; who would have thought up<g ref="char:EOLhyphen"/>on that fork? But do you take the preſent Sufferers to ſuffer for ill-do<g ref="char:EOLhyphen"/>ing? I'll aſſure you, you ſeem to inſinuate your meaning pretty clearly, by your Expoſing (in what you lay) one that died in Priſon as a blame<g ref="char:EOLhyphen"/>able Cauſe of his own Sufferings; and by many other Actions and Writings of the like Nature: Take heed of adding affliction to the af<g ref="char:EOLhyphen"/>flicted.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>If the Anabaptiſts ſhould be ſuffering Saints, I would not be for Anabaptiſtry, for fear of condemning them as the cauſe of their own Sufferings: By that Rule, I muſt own every Error or Sin that every Saint ſuffers for.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>But I believe the world begins now to be pretty well ſatisfied
+<pb n="44" facs="tcp:134627:24"/> that all thoſe things are not Errors or Sins, which Mr. <hi>Baxter</hi> calls ſo, and makes a great putther to prove ſo; nor all thoſe Truths or Ver<g ref="char:EOLhyphen"/>tues that he ſaith are. Mr. <hi>Tombs,</hi> a back-ſliding Anabaptiſt, was a great Saint in your Books: And though you will not be of a Sufferers Judgment to juſtifie his Suffering, you might forbear Eſpouſing the Im<g ref="char:EOLhyphen"/>poſers and Perſecutors cauſe, and forbear perſecuting with bitter words that comes not ſhort of the others: There are <hi>hard words and Speeches</hi> to be reckoned for one day.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>To your Minor, It is a groſs miſtake to ſay that going to the Lyturgy maketh the Refuſers the only blameable cauſe of their own Suf<g ref="char:EOLhyphen"/>ferings; what are you one that acquit all the Proſecutors?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>You are ſo, for you juſtifie the Law of which they are Offen<g ref="char:EOLhyphen"/>ders; he that juſtifies a Law, juſtifies alſo the due Executioners of it; and therefore condemns the Sufferer as the only blameable cauſe of his Suffering. A murderer is condemn'd and hang'd for Murder, the Law is good, the pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eedings againſt him juſt and due; who is the blameable Cauſe of his own Suff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rings but himſelf?</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>But are there no Saints th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t go to Common Prayer?</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Men may be S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ints (as you ſaid not long ago) and yet En<g ref="char:EOLhyphen"/>gage in an unjuſt Proſecution; and to joyn in Communion with them, is to juſtifie their violences, and paſſionate Miſtakes, as alſo condemn the Sufferers: I wiſh ſuch Saints as you ſpeak of, I mean they that ſe<g ref="char:EOLhyphen"/>parate not, would give more proof of their Saintſhip to the world, by ſeparating at leaſt from malice, hatred and bitterneſs of words and actions; yea, ſuch inhumanity that Turks would not boaſt of, Papiſts bluſh to hear of afterwards; but ſome Proteſtants, your unſeparable Saints, plead for, as the Eccleſiaſtical and Evangelical meritorious Righteouſneſs by which they expect to be juſtified before God and man.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>The Truth is, Repentance is a hard work, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>It is ſo, but its an eaſie thing to make a great ſplutter about it, and l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y the Law very hard to others, by Preſs and Pulpit. Is there a man on Earth that will ſtand more upon his proud pretences, and inſul<g ref="char:EOLhyphen"/>ting too, in the maintaining of manifeſt decryed Errors and Practiſes? Therefore ſuch Harrangues as theſe are, might be ſpared, for I know no body affected with them: <hi>Claudius accuſat &amp;c. Turpe eſt Doctori cum culpa redarguit ipſum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>Arg. 8. <hi>That Practice which is accompanyed with unavoidable Scan<g ref="char:EOLhyphen"/>dal, Engaged in only on the pretence of Liberty, is contrary to the Goſpel: But ſuch is our joyning in the preſent P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>blick Worſhip. It were Endleſs to reckon up all the Scan<g ref="char:EOLhyphen"/>dals which will enſue; that which reſpects our Enemies, must not be omitted: will they not think, will they not ſay, that we have only falſly and hyppocritically pretended con<g ref="char:EOLhyphen"/>ſcience for what we do, when we can upon outward conſiderations comply with that which is required of us? Wo to the World becauſe of ſuch offences; but wo to them alſo by whom they are given.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>But in the firſt place take heed of <hi>offending Saints:</hi> Now we muſt none of us
+<pb n="45" facs="tcp:134627:24"/> hold communion with the Pariſh-Churches, leaſt ſome <hi>Saints that ſeparate</hi> ſhould be rendred falſe Witneſſes of God, and blameable.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>I do not believe that ever a man that ſcoffs at hol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs, and the Profeſſors of it, will be juſtified by his own works. This and an hundred more Expreſſions in this Book had become another man more then Mr. <hi>Baxter.</hi> Sir, Do you know what Spirit you are of? It's ſo manifeſt, I am moved in love to ſpeak ſo plainly.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>To the Major, 1. It is not true, when there is far more Scandal by for bearing that practice; but only when there is leſs on the other ſide.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Well, that is Anſw. <hi>Bellarmine, thou ly'ſt;</hi> and it muſt be ſo, all the World cann't help <hi>Bellarmine</hi> in this caſe, he is perfectly refuted. Obſerve now how pretty the reaſon of the denial is, It is not true [that that practice which is accompanyed with unavoidable Scandal, <hi>&amp;c.</hi> is contrary to the Goſpel] becauſe there is greater Scandal by forbearing that practice: 1. Do we talk of comparative Scandal? 2. Its unavoidable with a witneſs<g ref="char:punc">▪</g> if it lie on both parts of an indifferent act<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on. 3. It was always reckon'd hitherto by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Divines, that the forbearing a doubtful action had the leaſt ſcandal in it; but I muſt confeſs you are very ſafe, for you ſay, <hi>The Scandal is greater on the forbearing ſide, only when there is leſs on the other ſide:</hi> One ſtick is longer, when the o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her is ſhorter! This is now learnedly determined, Mr. <hi>Doctor!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>To the Minor, It is not true. <hi>That it is only Liberty that is pleaded for the Com<g ref="char:EOLhyphen"/>munion in question;</hi> It is a great Duty, <hi>i. e.</hi> of Union, Concord, Peace, Obedience to Chriſt, <hi>&amp;c.</hi> Avoiding of Schiſm, and twenty Duties more. Error 39.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ters that afterwards have complyed, have done it on the pretence of Liberty in matters of indifferency; againſt that pretence we alledge the buſineſs of Scandal, and the great danger of Scandal in matters of that nature, which <hi>Paul</hi> lays ſuch a Streſs upon, yea our Lord Jeſus Chriſt himſelf in his Min ſtry annexing the great<g ref="char:EOLhyphen"/>eſt woes in the Goſpel to Scandal. Puh! ſays this Gentleman, here's no danger of a Scandal in this caſe; it is not a doubtful caſe, its our duty to comply, a duty of Con<g ref="char:EOLhyphen"/>cord, Love, Obedience, <hi>&amp;c.</hi> Well, all that I ſhall ſay here is, If any man be troubled and diſquieted in mind about ſcruples of Conſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence, here is a Caſuiſt will do their bu<g ref="char:EOLhyphen"/>ſineſs beyond all Caſuiſts before him, or any Antinomians whatever: For tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e things that you &amp; the Divines you have conſulted with, have called ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, &amp; thouſands have been diſturbed and wounded in Conſcience for doing of he will ſhew to be an eminent duty. About the duties <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere mentioned, Enquiry may be made elſewhere, if need require; our Argument will ſtand faſt enough without it at this time.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>Arg. 9. <hi>That Worſhip which is unſuited to the reliſh of the new Crea<g ref="char:EOLhyphen"/>ture, which is inconſiſtent with the Conduct of the Spirit of God in Prayer, is unlawful: for the Nature, <g ref="char:V">Ʋ</g>ſe<g ref="char:punc">▪</g> and benefit of Prayer, is overthrown hereby in a great meaſure. Now let any one conſider what are the pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>miſed Aids of the holy Spirit, with reſpect to the Prayers of the Church, whether as to the matter of them, or as unto the ability of performance, or as unto the manner of it, and he ſhall find that they are all rejected and excluded by this form of Worſhip as is pretended, comprizing the whole matter, limiting the whole manner, and giving all the Abilities of Prayer that are needful or required. This hath been proved at large.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>It is a miſtake, Error 40. That this form of Worſhip rejecteth and exclu<g ref="char:EOLhyphen"/>deth the matter of Prayer.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>That which preſcribes the matter of Prayer, excludes all other matter beſides what is preſcribed; and therefore is inconſiſtent with the conduct of the Spirit, in taking the work of the Spirit out of its hands: It rejecteth and excludeth our dependance on the promiſes of the aid and aſſiſtance of the Spirit in Prayer, becauſe it preſcribes and limits the matter, manner, and gives all the abilities pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ended to; there is nothing for the Spi<g ref="char:EOLhyphen"/>rit to do; therefore here's nothing untrue: Where there is nothing left for the Spirit to do, the work of the Spirit, as to Gifts, is excluded.</p>
+            </sp>
+            <sp>
+               <pb n="46" facs="tcp:134627:25"/>
+               <speaker>Manuſcript.</speaker>
+               <p>Arg. 10. <hi>That which overthrows and diſſolves our Church-Covenant, as unto the principal end of it, is to us unlawful; this end is the profeſſed joynt ſubjection of our Souls and Conſciences unto the Authority of Chriſt, in the obſervation of whatever he commands, and nothing elſe, in the Worſhip of God. But by this practice, this end of the Church Covenant is deſtroyed, and thereby the Church-Covenant it ſelf is broken, for we do obſerve that which Chriſt hath not commanded: And while ſome ſtand unto the terms of the Covenant, which others relinquiſh, it will fill the Church with Confuſions and Diſorders.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>To the 10th I anſwer, What your <hi>Church-Covenant</hi> is, I know not; but if it profeſs Subjection to nothing in Worſhip, but what Chriſt commandeth, it is your Church-Error, and Error 41.</p>
+            </sp>
+            <sp>
+               <speaker>J.O.</speaker>
+               <p>I may ſpare the pains to vindicate our ſelves from this charge of Error, every Chri<g ref="char:EOLhyphen"/>ſtian can do it. But Sir, are you ſerious here, and ſpeak as you mean? Or are you Ludicrous only, and would ſhew a feat of Sophiſtry? If it be the former, we muſt profeſs our Reſo<g ref="char:EOLhyphen"/>lution to maintain that for Truth and Religion, which you call Error; and that we pro<g ref="char:EOLhyphen"/>feſs ſubjection only to the Commands of Chriſt in matters of Religion; and if you know any Religion, or part of it to be exerciſed in Obedience to thoſe Commands that are not Chriſts, keep that to your own practice if you like it, we need it not. What you ſay as to Pſalms, Tranſlations, Time, Place, Utenſils, we ſay we do nothing in them, but in Obedience to the Commands of Chriſt, ſo far as they have place in Worſhip; neither ſhall you nor any man preſcribe to us. If your meaning be to be taken in the latter ſence, I ſay 'tis <hi>Ludere cum ſacris,</hi> as hath been too often in this Undertaking of yours: Heathens had a ſerious Reverence to their ſuppoſed Sacred Things, as appears by the Poet—<hi>Procul! O Procul! eſte profani.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>Arg. 11. <hi>That which contains a vertual renunciation of our Church-State, and of the lawfulneſs of our Miniſtry, and Ordinances therein, is not to be ad<g ref="char:EOLhyphen"/>mitted or allowed; But this alſo is done in the practices enquired into: For it is a pro<g ref="char:EOLhyphen"/>feſſed Conjunction with them in Church-Communion and Worſhip, by whom our Church-State and Ordinances are condemned as null; and this judgment they make of what we do, affirming that we are groſs diſſemblers, if after ſuch a conjunction with them, we return any more unto our own Aſſemblies; in this condemnation we do outwardly and viſibly joyn.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>It's an Error to hold, That if any unjuſtly condemn other Churches, it is a Re<g ref="char:EOLhyphen"/>nunciation of that condemned Church-State, to have Communion with them that condemn. Error. 42.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>You cann't be ignorant, but know that you ſpeak now fallaciouſly again. To have communion with another man, in other things that he condemns me not for, is no Renunciation of that for which he doth condemn me; <hi>E. gr.</hi> A falſe Worſhipper con<g ref="char:EOLhyphen"/>denms me for worſhipping the true God, or the true God in a right manner; I may maintain a Society with<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h this man as to buying and ſelling, and not condemn my Re<g ref="char:EOLhyphen"/>ligion; but if I enter into a Religious Society with him in falſe Worſhip, I then renounce what he unjuſtly condemns me for: So your charge is fallacious and falſe.</p>
+            </sp>
+            <sp>
+               <speaker>Manuſcript.</speaker>
+               <p>Arg. 12. <hi>That which deprives us of the Principal Plea for the juſtifica<g ref="char:EOLhyphen"/>tion of our Separation from the Church of</hi> England <hi>in its preſent State, ought not juſtly to be received or admitted: But this is certainly done by a Suppoſition of the lawfulneſs of this Worſhip, and a practice ſuitable thereto, as is known to all who are exerciſed in this cauſe. Many other heads of Argument might be added to the ſame purpoſe, if there were cccaſion.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Is there any Error here?</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>I mark none, but I anſwer your Argument thus: That which diſcovers the un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of any ones Plea for Separ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion, is to be received,</p>
+            </sp>
+            <sp>
+               <speaker>J.O.</speaker>
+               <p>That is not true univerſally, for the Commiſſion of many Acts of Sin, is a diſcovery
+<pb n="47" facs="tcp:134627:25"/> to a man himſelf, and good men, of the unſoundneſs of any Plea that hath been made for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>R. B,</speaker>
+               <p>There are ſeveral caſes in which ſeparation from the Church of <hi>England</hi> is ſinful: 1. If any ſeparate as Papiſts do, and becauſe they are againſt ſound Doctrine, or any good that is in the Church.</p>
+            </sp>
+            <sp>
+               <speaker>J. O</speaker>
+               <p>This you charge them with; Papiſts will ſay your Doctrine is ſound, and that which you have juſtified more then any profeſt Proteſtant Divine ſince the Reformation; as that of Juſtification by Works, Merits, Images, a power in man to invent &amp; to impoſe Sub<g ref="char:EOLhyphen"/>ordinate Worſhip: They ſay they ſeparate becauſe of the Errors of your Church-Conſtitution.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>If any renounce Communion with Pariſh-Churches, under the name of the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Communion with the Church of <hi>England</hi> and Pariſh-Churches, is the ſame thing; as communion with <hi>Homo,</hi> is communion wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <hi>Animal.</hi> But we know where you would be.</p>
+            </sp>
+            <sp>
+               <speaker>R.B.</speaker>
+               <p>If any renounce communion with the Church of <hi>England</hi> as it's a Chriſtian Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>See now the <hi>quatenus</hi> ſtill, you will not have communion with the Church, but with a Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>If any renounce communion with the Church of <hi>England,</hi> as its called one from an Aſſociation of concord of its Paſtors or Church Governours.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>i. e. <hi>Quatenus</hi> a Presbyterian Church.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>If any renounce communion with faulty Biſhops, or worſhip <hi>ſimpliciter,</hi> and not <hi>ſecundum quid.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Now here is a Communicant <hi>ſecundum quid.</hi> I would appeal to the Church of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> whether Mr. <hi>Baxter</hi> be an acceptable Communicant? 1. He communicates with a Pa<g ref="char:EOLhyphen"/>riſh-Church, but renounceth the organized Church of <hi>England.</hi> 2. He hath communion in the Liturgy, but renounceth the Authority of Dioceſan Biſhops, and their Office as eſtabliſhed by the ſame. 3. He hath communion with the Church of <hi>England,</hi> but not as ſuch, but <hi>quatenus</hi> a Chriſtian Kingdom. 4. He hath communion with Pariſhes, but not as part of Dioceſan Church<g ref="char:EOLhyphen"/>es, but <hi>quatenus</hi> Presbyterian Aſſociations. 5. He hath no ſimple abſolute communion at all, out is a meer <hi>ſecundum quid</hi> Communicant. Are not theſe now pretty clear and plain things to reſolve a doubting Conſcience, in the great point of Goſpel-Communion?</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Now I'll tell you the Reaſon of my Anſwer, Theſe XII. Arguments I under<g ref="char:EOLhyphen"/>ſtand they are likelieſt to prevail moſt by the honour of Dr. <hi>Owen</hi>'s Name, more then by any ſtrength that is in them: J was willing as long as I could to believe they were not his, they being as fallacious and frivolous as the reſt (<hi>i. e.</hi> Mr. <hi>Ralphſon</hi>'s and Mr. <hi>Warner</hi>'s and one Error managed with above forty miſtakes. Beſides after being aſſured they were his, I was the more encouraged by the Example of <hi>Paul, Gal.</hi> 2.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>As frivolous as they are, or as little ſtrength as they have, you have not ſo much as ſhaken one of them, or any Scripture duely managed by the Suffering Gentlemen you trampled upon, one dead, and the other alive; dead or alive, it's all one to you; but go on: A Ream of Paper fill'd with ſuch a Noiſe as this was, will not carry the cauſe you have undertaken, unleſs you can find better Arguments and Reaſons, both Logical and Theo<g ref="char:EOLhyphen"/>logical, to manage it with. Put on the Spirit of Meekneſs, Gravity, Tenderneſs, Humility, Self-denyal: Do not think to raiſe your Honour upon the Ruines of Chriſts Truth, and the Reproaches of his Followers; this was not <hi>Pauls</hi> Spirit, neither have you his cauſe; for the buſi<g ref="char:EOLhyphen"/>neſs that he withſtood <hi>Peter</hi> in, was compliance with the <hi>Jews</hi> aboliſhed worſhip, in oppoſi<g ref="char:EOLhyphen"/>tion to the preſent Goſpel-Worſhip, as it was owned and profeſſed by the <hi>Gentiles:</hi> Beſides, there was his Cowardlineſs and fear of man that brought him to it, with a great deal of diſſimulation, whereby <hi>Barnabas</hi> and others were drawn away; <hi>Gal.</hi> 2.12, 13.</p>
+               <p>Sir, you write much, and Err much, and yet juſtifie your ſelf as the moſt infallible Per<g ref="char:EOLhyphen"/>ſon in the World, when you come to particulars. Sir, I tell you, I ſhall appeal to any Chriſtian Spirit, that reads your Refutation o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> theſe Arguments, as you call it, whether you give any Teſtimony of the Spirit of Chriſt accompanying you in it. I ſay no more,
+<pb n="48" facs="tcp:134627:26"/> but recommend to your ſerious conſideration. 1ſt. The third chapter of the firſt Epiſtle of S. <hi>Paul</hi> to the <hi>Corinthians;</hi> eſpecially <hi>verſ.</hi> 11, 12.13 14, 15. &amp; 18, 19. 2dly, The loud Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fie<g ref="char:EOLhyphen"/>tick Call of Mr. <hi>Vincent</hi> in the end of his Book of Love: <hi>O Tongues of Profeſſors!</hi> [Ca<g ref="char:EOLhyphen"/>tholick Communicants as well as others] <hi>how long will it be ere you be quiet? How long ſhall your breath b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as the E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>-wind, blaſting all about you? When ſhall your words be agreeable to the Word of God? When ſhall your Lips feed many, and hurt none? Your reproachful back-biting railing Language, your Lies and Falſehoods, have ſeen your ſin and ſhame, and the ſhame of Religion; Repentance and Amendment is abſolutely neceſſary; elſe Salvation will ſtill ſtand at a diſtance,</hi> Iſa. 63.8. This he ſaid ſuſpecting men ſpoke of his Conformity.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Well, Doctor, I would not have you offended at what I have ſaid and done; I doubt not but whatever I wrote, was faulty. — But I write as a Defendant of Love, U<g ref="char:EOLhyphen"/>nity, and the Catholick Church; and for the ſake of ſuch as being juſtly afraid of Sin, and Idolatry, and Damnation, are affrighted from Love Unity, <hi>&amp;c.</hi> and fall into a wilderneſs of ſinful Diviſions and confuſions by theſe frightful names. — And tho' in the Trials and late Diſtractions of the Land<g ref="char:punc">▪</g> I mention ſome of your confeſſions, it is to tell you, That I had reaſon to hope that you repented for doing no more in your publick Opportunities againſt the Spirit of Diviſion that diſſolved us.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>True; had it not been for that Spirit of Diviſion, there might not have been ccca<g ref="char:EOLhyphen"/>ſion of your Repentance for writing the <hi>Holy Commonwealth.</hi> The World is hardly pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſwaded yet that it was hearty, but only to qualify your Self for State-Charity, as many Catholick Communicants go to Church and receive the Sacraments.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>I will do much for that reaſon that the World may know my Charity with you, and have Charity for me, (for all any thing ſaid of you in this Pamphlet) I will tell the Biſhops, that they ſhould not be angry with you, That I know not three men alive whom they are more beholden to for their Reſtitution by opening the door, and ſweeping the way, and melting down and pulverizing all that was like to have reſiſted them.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Now to return this great favour, we will take care, if they underſtand it not already, to acquaint them that no ten men in <hi>England</hi> now alive, have done more for their Eſta<g ref="char:EOLhyphen"/>bliſhment, by dirtying the Diſſenters, and melting and crumbling the Cauſe of Noncon<g ref="char:EOLhyphen"/>formity to attoms, that upon the Principles and Reaſons that you would have the World beleive it ſtands, it ſeems juſtly to them, and all other duly conſidering men, the moſt idle weak and ridiculous thing in the world. So that I hope now they will be well pleas'd with us both.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Dr. let us ſhake hands then, and be friends; and walk like B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e hren in Catholick Communion; I tell thee one thing, but it's not fit to be ſpoken of ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but among Friends: I am going to diſcourſe <hi>Dr. Sie<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ck</hi> upon this great point of C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tholick Commun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, to beat it into his thick Skull how the Catholick Church is united into one b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dy, ſo as to be one Church; I cann't make him underſtand what's meant by the word Union, nor how many ſorts of Union; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e will receive nothing <hi>de nomine,</hi> nor <hi>de re;</hi> but I am not out of hopes of effecting ſomething at laſt: If I cann't do it. I am ſure no man can; It ſhall eſcape me hard if I do not <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thoſe worldly Pr. I G. and the unruly Pr. Ig's by Per<g ref="char:EOLhyphen"/>ſecution and by cauſleſs Separation and Alienation, to Catholick Communion.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>Good night, S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</p>
+            </sp>
+            <sp>
+               <speaker>R. B.</speaker>
+               <p>Good morrow, S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>J. O.</speaker>
+               <p>We cann't ag<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e on the time of day yet, it ſeems.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
